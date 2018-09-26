@@ -1,0 +1,5 @@
+Test 1 using traindata.txt and trainlabels.txt to train and test.
+Accuracy: 95.34161490683229%
+
+Test 2 using traindata.txt and trainlabels.txt to train and testdata.txt and testlabels.txt to test.
+Accuracy: 84.15841584158416%
