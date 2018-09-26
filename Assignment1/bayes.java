@@ -2,28 +2,17 @@ import java.io.*;
 import java.util.*;
 public class bayes{
     public static void main(String[] args) {
-        File f = new File(args[0]);
-        ArrayList<ArrayList<String>> docs = getDocs(f);
-        ArrayList<String> vocab = getVocab(docs);
+        if(args.length < 2){
+            System.out.println("Please specify the correct input files.");
+            System.exit(1);
+        }
+        File trainData = new File(args[0]);
+        File trainLabels = new File(args[1]);
+
+        ArrayList<ArrayList<String>> docs = getDocs(trainData);
+        //Figure out a better way to get the number of classes
         int[] classes = {0,1};
-
-        for(int i = 0; i < docs.size(); i++){
-            System.out.println(docs.get(i));
-        }
-        System.out.println();
-        for(int i = 0; i < vocab.size(); i++){
-            System.out.println(vocab.get(i));
-        }
-        System.out.println();
-        System.out.println();
-        // String[][] strings = new String[11110][100];
-        // strings = docs.toArray(strings);
-
-        // for(int i = 0; i < strings.length; i++){
-        //     for(int j = 0; j < strings[i].length; j++){
-        //         System.out.println(strings[i][j]);
-        //     }
-        // }
+        train_bernoulli_nb(classes, docs, trainLabels);
     }
 
     public static ArrayList<ArrayList<String>> getDocs(File f) {
@@ -62,16 +51,48 @@ public class bayes{
         }
         return vocab;
     }
-}
 
-/*  Train_BernoulliNB(Classes, Documents)
-        V => ExtractVocavulary(Documents)
-        N => CountDocs(Documents)
-        for each Class in Classes
-            do Nc => CountDocsInClass(Documents, class)
-               prior[c] => Nc/N
-               for each term in V
-               do Nct => CountDocsInClassContainingTerm(Documents, c, t)
-                    condprob[t][c] => (Nc+1)/(Nc +2)
-        return V, prior, condprob 
-*/
+    public static void train_bernoulli_nb(int[] classes, ArrayList<ArrayList<String>> docs, File f) {
+        ArrayList<String> vocab = getVocab(docs);
+        int n = docs.size();
+        float[] prior = new float[classes.length];
+        float[][] condprob = new float[vocab.size()][classes.length];
+        for(int c : classes){
+            int Nc = CountDocsInClass(c, f);
+            prior[c] = Nc/n;
+            for(String term : vocab){
+                int index = vocab.indexOf(term);
+                int Nct = CountDocsInClassContainingTerm(docs, c, term);
+                condprob[index][c] = (Nct+1)/(Nc +2);
+            }
+        }
+        // return vocab, prior, condprob
+    }
+
+    public static int CountDocsInClass(int c, File f) {
+        int count = 0;
+        try {
+            Scanner s = new Scanner(f);
+
+            while (s.hasNextInt()) {
+                int n = s.nextInt();
+                if(n == c)
+                    count++;
+            }
+            s.close();
+        } 
+        catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        return count;
+    }
+
+    public static int CountDocsInClassContainingTerm(ArrayList<ArrayList<String>> docs, int c, String term) {
+        int count = 0;
+        for(ArrayList<String> doc : docs){
+            if(doc.contains(term))
+                count++;
+        }
+        return count;
+    }
+}
