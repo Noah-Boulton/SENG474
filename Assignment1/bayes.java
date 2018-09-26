@@ -12,7 +12,42 @@ public class bayes{
         ArrayList<ArrayList<String>> docs = getDocs(trainData);
         //Figure out a better way to get the number of classes
         int[] classes = {0,1};
-        train_bernoulli_nb(classes, docs, trainLabels);
+        ArrayList<String> vocab = getVocab(docs);
+        float[] prior = new float[classes.length];
+        float[][] condprob = new float[vocab.size()][classes.length];
+
+        train_bernoulli_nb(classes, docs, trainLabels, vocab, prior, condprob);
+
+        // System.out.println("Classes");
+        // for(int c : classes){
+        //     System.out.println(c);
+        // }
+        // System.out.println();
+        // System.out.println();
+        // System.out.println("Documents");
+        // for(ArrayList<String> doc : docs){
+        //     System.out.println(doc);
+        // }
+        // System.out.println();
+        // System.out.println();
+        // System.out.println("Vocab");
+        // for(String term : vocab){
+        //     System.out.println(term);
+        // } 
+        // System.out.println();
+        // System.out.println();
+        System.out.println("Prior");  
+        for(float p : prior){
+            System.out.println(p);
+        }
+        System.out.println();
+        System.out.println();
+        System.out.println("Condprob");
+        for(float[] cp : condprob){
+            for(float k : cp){
+                System.out.println(k);
+            }
+        }
     }
 
     public static ArrayList<ArrayList<String>> getDocs(File f) {
@@ -52,18 +87,18 @@ public class bayes{
         return vocab;
     }
 
-    public static void train_bernoulli_nb(int[] classes, ArrayList<ArrayList<String>> docs, File f) {
-        ArrayList<String> vocab = getVocab(docs);
+    public static void train_bernoulli_nb(int[] classes, ArrayList<ArrayList<String>> docs, File f, ArrayList<String> vocab, float[] prior, float[][] condprob) {
+        // vocab = getVocab(docs);
         int n = docs.size();
-        float[] prior = new float[classes.length];
-        float[][] condprob = new float[vocab.size()][classes.length];
+        // prior = new float[classes.length];
+        // condprob = new float[vocab.size()][classes.length];
         for(int c : classes){
             int Nc = CountDocsInClass(c, f);
-            prior[c] = Nc/n;
+            prior[c] = (float)Nc/(float)n;
             for(String term : vocab){
                 int index = vocab.indexOf(term);
                 int Nct = CountDocsInClassContainingTerm(docs, c, term);
-                condprob[index][c] = (Nct+1)/(Nc +2);
+                condprob[index][c] = (float)(Nct+1)/(float)(Nc +2);
             }
         }
         // return vocab, prior, condprob
@@ -76,6 +111,7 @@ public class bayes{
 
             while (s.hasNextInt()) {
                 int n = s.nextInt();
+                
                 if(n == c)
                     count++;
             }
