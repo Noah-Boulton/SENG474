@@ -2,8 +2,9 @@ import java.io.*;
 import java.util.*;
 public class bayes{
     public static void main(String[] args) {
-        if(args.length < 4){
-            System.out.println("Please specify the correct input files.");
+        if(args.length < 5){
+            System.out.println("Please specify the correct input:");
+            System.out.println("java bayes trainingData.txt trainingLabels.txt testingData.txt testingLabels.txt numberOfClasses");
             System.exit(1);
         }
         File trainData = new File(args[0]);
@@ -15,7 +16,10 @@ public class bayes{
         int[] t_labels = getLabels(trainLabels);
         ArrayList<ArrayList<String>> docs = getDocs(trainData);
         //Figure out a better way to get the number of classes
-        int[] classes = {0,1};
+        int[] classes = new int[Integer.parseInt(args[4])];
+        for(int i = 0; i < classes.length; i++){
+            classes[i] = i;
+        }
         ArrayList<String> vocab = getVocab(docs);
         double[] prior = new double[classes.length];
         double[][] condprob = new double[vocab.size()][classes.length];
@@ -24,14 +28,26 @@ public class bayes{
 
         int[] test1_labels = apply_bernoulli_nb(classes, vocab, prior, condprob, trainData);
         //int[] real_test1_labels = getLabels(trainLabels);
-        double accuracy1 = score(t_labels, test1_labels);
+        double accuracy1_1 = score(t_labels, test1_labels);
 
         int[] test2_labels = apply_bernoulli_nb(classes, vocab, prior, condprob, testData);
         int[] real_test2_labels = getLabels(testLabels);
-        double accuracy2 = score(real_test2_labels, test2_labels);
-        
-        String t1 = "Test 1 using " + args[0] + " and " + args[1] + " to train and test.\nAccuracy: " + accuracy1*100 + "%\n";
-        String t2 = "Test 2 using " + args[0] + " and " + args[1] + " to train and " + args[2] + " and " + args[3] + " to test.\nAccuracy: " + accuracy2*100 + "%\n";
+        double accuracy1_2 = score(real_test2_labels, test2_labels);
+        String t1 = "Testing using Bernoulli Model:";
+        String t1_1 = "Test 1 using " + args[0] + " and " + args[1] + " to train and test.\nAccuracy: " + String.format("%1$.2f", accuracy1_1*100) + "%";
+        String t1_2 = "Test 2 using " + args[0] + " and " + args[1] + " to train and " + args[2] + " and " + args[3] + " to test.\nAccuracy: " + String.format("%1$.2f", accuracy1_2*100) + "%";
+
+        train_multinomial_nb(classes, docs, trainLabels, vocab, prior, condprob, t_labels);
+
+        int[] test2_1_labels = apply_multinomial_nb(classes, vocab, prior, condprob, trainData);
+        double accuracy2_1 = score(t_labels, test2_1_labels);
+        int[] test2_2_labels = apply_multinomial_nb(classes, vocab, prior, condprob, testData);
+        double accuracy2_2 = score(real_test2_labels, test2_2_labels);
+
+        String t2 = "Testing using Multinomial Model:";
+        String t2_1 = "Test 1 using " + args[0] + " and " + args[1] + " to train and test.\nAccuracy: " + String.format("%1$.2f", accuracy2_1*100) + "%";
+        String t2_2 = "Test 2 using " + args[0] + " and " + args[1] + " to train and " + args[2] + " and " + args[3] + " to test.\nAccuracy: " + String.format("%1$.2f", accuracy2_2*100) + "%";
+
 
         BufferedWriter output = null;
         try {
@@ -39,13 +55,72 @@ public class bayes{
             output = new BufferedWriter(new FileWriter(results));
             output.write(t1);
             output.write("\n");
+            output.write("\n");
+            output.write(t1_1);
+            output.write("\n");
+            output.write(t1_2);
+            output.write("\n");
+            output.write("\n");
+
             output.write(t2);
+            output.write("\n");
+            output.write("\n");
+            output.write(t2_1);
+            output.write("\n");
+            output.write(t2_2);
             if ( output != null ) {
                 output.close();
               }
         } catch ( IOException e ) {
             e.printStackTrace();
         } 
+    }
+
+    public static void train_multinomial_nb(int[] classes, ArrayList<ArrayList<String>> docs, File f, ArrayList<String> vocab, double[] prior, double[][] condprob, int[] labels) {
+        int n = docs.size();
+        for(int c : classes){
+            int Nc = CountDocsInClass(c, f);
+            prior[c] = (double)Nc/(double)n;
+            ArrayList<ArrayList<String>> textc = concatenate_text_of_docs_in_class(docs, c, labels);
+            int[] Tct = new int[vocab.size()];
+            for(String term : vocab){
+                int index = vocab.indexOf(term);
+                Tct[index] = count_tokens_of_term(textc, term);
+            }
+            int text_sum = sum_arr(Tct);
+            for(String term : vocab){
+                int index = vocab.indexOf(term);
+                // int textc_length = len_tc(textc);
+                condprob[index][c] = (double)(Tct[index]+1)/(double)(text_sum + vocab.size());
+            }
+        }
+    }
+
+    public static int sum_arr(int[] a) {
+        int sum = 0;
+        for(int b : a){
+            sum += b;
+        }
+        return sum;
+    }
+
+    public static int[] apply_multinomial_nb(int[] classes, ArrayList<String> vocab, double[] prior, double[][] condprob, File testData) {
+        ArrayList<ArrayList<String>> docs = getDocs(testData); 
+        int[] labels = new int[docs.size()];
+        for(int i = 0; i < docs.size(); i++){
+            ArrayList<String> Vd = getVocabDoc(docs.get(i));
+            double[] score = new double[classes.length];
+            for(int c : classes){
+                score[c] = Math.log(prior[c]);
+                for(String term : vocab){
+                    int index = vocab.indexOf(term);
+                    if(Vd.contains(term))
+                        score[c] += Math.log(condprob[index][c]);
+                }
+            }
+            labels[i] = max_score(score);
+        }
+        return labels;
     }
 
     public static void train_bernoulli_nb(int[] classes, ArrayList<ArrayList<String>> docs, File f, ArrayList<String> vocab, double[] prior, double[][] condprob, int[] labels) {
@@ -82,6 +157,33 @@ public class bayes{
             labels[i] = max_score(score);
         }
         return labels;
+    }
+
+    public static ArrayList<ArrayList<String>> concatenate_text_of_docs_in_class(ArrayList<ArrayList<String>> docs, int c, int[] labels) {
+        ArrayList<ArrayList<String>> docs_of_class_c = new ArrayList<ArrayList<String>>();
+        for(ArrayList<String> doc : docs){
+            if(labels[docs.indexOf(doc)] == c){
+                docs_of_class_c.add(doc);
+            }
+        }
+        return docs_of_class_c;
+    }
+
+    public static int count_tokens_of_term(ArrayList<ArrayList<String>>textc, String term) {
+        int count = 0;
+        for(ArrayList<String> doc : textc){
+            if(doc.contains(term))
+                count++;
+        }
+        return count;
+    }
+
+    public static int len_tc(ArrayList<ArrayList<String>> textc) {
+        int len = 0;
+        for(ArrayList<String> doc : textc){
+            len += doc.size();
+        }
+        return len;
     }
 
     public static double score(int[] labels, int[] real_labels) {
@@ -186,9 +288,38 @@ public class bayes{
         return vocab;
     }
     public static int max_score(double[] a) {
-        if(a[0] > a[1])
-            return 0;
-        else
-            return 1;
+        int index = 0;
+        double max = a[0];
+        for(int i = 1; i < a.length; i++){
+            if(a[i] > max){
+                max = a[i];
+                index = i;
+            }
+        }
+        return index;
     }
+
+    /*  train_multinomial_nb(C, D)
+            V => extract_vocabulary(D)
+            N => count_docs(D)
+            for each class in C
+                Nc => count_docs_in_class(D,class)
+                prior[c] => Nc/N
+                textc => concatenate_text_of_docs_in_class(D, class)
+                for each term in V
+                    Tct => count_tokens_of_term(textc, term)
+                for each term in V
+                    condprob[term][c] => Tct+1/Sumt'(Tct'+1)
+            return V, prior, condprob
+    */
+
+    /*  apply_multinomial_nb(C, V, prior, condprob, d){
+            W => extract_tokens_from_doc(V, d)
+            for each class c in C
+                score[c] => log prior[c]
+                for each term in W
+                    score[c] += log condprob[term][c]
+            return arg max score[c]
+    }
+    */
 }
