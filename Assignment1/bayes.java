@@ -4,6 +4,7 @@ public class bayes{
     public static void main(String[] args) {
         if(args.length < 5){
             System.out.println("Please specify the correct input:");
+            System.out.println("Input should be in the form:");
             System.out.println("java bayes trainingData.txt trainingLabels.txt testingData.txt testingLabels.txt numberOfClasses");
             System.exit(1);
         }
