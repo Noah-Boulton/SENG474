@@ -169,14 +169,6 @@ public class bayes{
         return count;
     }
 
-    private static int len_tc(ArrayList<ArrayList<String>> textc) {
-        int len = 0;
-        for(ArrayList<String> doc : textc){
-            len += doc.size();
-        }
-        return len;
-    }
-
     private static double score(int[] labels, int[] real_labels) {
         int correct = 0;
         for(int i = 0; i < labels.length; i++){
