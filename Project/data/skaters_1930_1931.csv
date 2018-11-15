@@ -1,0 +1,174 @@
+id,fullName,teamName,assists,goals,pim,games,penaltyMinutes,gameWinningGoals,overTimeGoals,points
+8444855,Clarence Abel,Chicago Blackhawks,1,0,43,43,43,0,0,1
+8444863,Stew Adams,Chicago Blackhawks,13,5,24,35,24,0,0,18
+8444967,Ty Arbour,Chicago Blackhawks,3,3,12,41,12,1,1,6
+8445127,Helge Bostrom,Chicago Blackhawks,2,2,32,42,32,2,0,4
+8445537,Tom Cook,Chicago Blackhawks,14,15,36,43,36,4,0,29
+8445746,Rosie Couture,Chicago Blackhawks,11,8,29,44,29,1,0,19
+8445885,Vic Desjardins,Chicago Blackhawks,12,3,17,39,17,1,0,15
+8445968,Duke Dutkowski,Chicago Blackhawks,4,2,46,37,46,1,0,6
+8446617,Johnny Gottselig,Chicago Blackhawks,12,20,12,42,12,2,0,32
+8446631,Ted Graham,Chicago Blackhawks,7,0,42,42,42,0,0,7
+8447018,Frank Ingram,Chicago Blackhawks,4,17,37,43,37,5,0,21
+8447052,Roger Jenkins,Chicago Blackhawks,1,0,14,31,14,0,0,1
+8447609,Mush March,Chicago Blackhawks,6,11,38,44,38,3,0,17
+8447870,Earl Miller,Chicago Blackhawks,4,3,10,19,10,1,0,7
+8448334,Vic Ripley,Chicago Blackhawks,4,8,9,37,9,1,0,12
+8448440,Doc Romnes,Chicago Blackhawks,7,5,10,30,10,1,0,12
+8449126,Art Somers,Chicago Blackhawks,6,3,35,33,35,0,0,9
+8449306,Ed Vokes,Chicago Blackhawks,0,0,0,5,0,0,0,0
+8449383,Cy Wentworth,Chicago Blackhawks,4,4,12,44,12,1,0,8
+8444987,Larry Aurie,Detroit Falcons,6,12,23,41,23,0,1,18
+8445541,Carson Cooper,Detroit Falcons,14,14,14,44,14,4,0,28
+8445806,Jimmy Creighton,Detroit Falcons,0,1,2,11,2,0,0,1
+8446182,Stewart Evans,Detroit Falcons,4,1,16,38,16,0,0,5
+8446245,Tommy Filmore,Detroit Falcons,3,7,10,39,10,0,0,10
+8446493,Frank Fredrickson,Detroit Falcons,2,1,6,24,6,1,0,3
+8446607,Leroy Goldsworthy,Detroit Falcons,0,1,4,12,4,0,0,1
+8446612,Ebbie Goodfellow,Detroit Falcons,23,25,32,44,32,7,1,48
+8446750,George Hay,Detroit Falcons,10,8,22,44,22,0,0,18
+8446857,Henry Hicks,Detroit Falcons,0,0,10,16,10,0,0,0
+8447484,Herbie Lewis,Detroit Falcons,6,15,38,43,38,3,2,21
+8447654,Stan McCabe,Detroit Falcons,1,2,22,40,22,0,0,3
+8447780,Bert McInenly,Detroit Falcons,5,3,48,44,48,0,0,8
+8448004,John Newman,Detroit Falcons,1,1,2,9,2,0,0,2
+8448013,Reg Noble,Detroit Falcons,5,2,46,44,46,0,0,7
+8448428,Harvey Rockburn,Detroit Falcons,1,0,124,42,124,0,0,1
+8449128,John Sorrell,Detroit Falcons,7,9,10,39,10,1,1,16
+8449177,Frank Steele,Detroit Falcons,0,0,2,1,2,0,0,0
+8445134,Frank Boucher,New York Rangers,27,12,18,44,18,2,0,39
+8445142,Leo Bourgeault,New York Rangers,5,0,40,38,40,0,0,5
+8445334,Gene Carrigan,New York Rangers,0,2,13,33,13,1,0,2
+8445529,Bill Cook,New York Rangers,12,30,39,44,39,5,1,42
+8445535,Fred Cook,New York Rangers,17,18,74,44,74,3,0,35
+8445908,Cecil Dillon,New York Rangers,3,7,15,25,15,2,0,10
+8447056,Joe Jerwa,New York Rangers,7,4,72,33,72,1,0,11
+8447098,Ivan Johnson,New York Rangers,6,2,79,44,79,0,0,8
+8447144,Butch Keeling,New York Rangers,9,13,35,44,35,3,1,22
+8447167,Ernest Kenny,New York Rangers,0,0,0,6,0,0,0,0
+8447607,Bud Maracle,New York Rangers,3,1,4,11,4,0,0,4
+8447646,Sam McAdam,New York Rangers,0,0,0,5,0,0,0,0
+8447913,Murray Murdoch,New York Rangers,7,7,6,44,6,1,0,14
+8448134,Frank Peters,New York Rangers,0,0,57,43,57,0,0,0
+8448298,Bill Regan,New York Rangers,1,2,53,42,53,0,0,3
+8448429,Eddie Rodden,New York Rangers,3,0,8,19,8,0,0,3
+8449232,Paul Thompson,New York Rangers,7,7,38,44,38,1,0,14
+8449309,Deacon Waite,New York Rangers,3,1,4,17,4,0,0,4
+8445142,Leo Bourgeault,Ottawa Senators (1917),5,0,40,38,40,0,0,5
+8445525,Harry Connor,Ottawa Senators (1917),0,0,2,8,2,0,0,0
+8445762,Danny Cox,Ottawa Senators (1917),12,9,12,44,12,0,0,21
+8446298,Frank Finnigan,Ottawa Senators (1917),8,9,40,44,40,2,1,17
+8446514,Art Gagne,Ottawa Senators (1917),11,19,50,44,50,1,0,30
+8446652,Len Grosvenor,Ottawa Senators (1917),4,5,25,33,25,0,0,9
+8447181,Hec Kilrea,Ottawa Senators (1917),8,14,62,44,62,1,1,22
+8447198,Ray Kinsella,Ottawa Senators (1917),0,0,0,14,0,0,0,0
+8447306,Joe Lamb,Ottawa Senators (1917),14,11,91,44,91,3,2,25
+8448138,Eric Pettinger,Ottawa Senators (1917),0,0,2,13,2,0,0,0
+8449059,Alex Smith,Ottawa Senators (1917),7,5,73,37,73,1,0,12
+8449060,Art Smith,Ottawa Senators (1917),4,2,61,43,61,1,0,6
+8449160,Harold Starr,Ottawa Senators (1917),1,2,48,35,48,0,0,3
+8449246,Bill Touhey,Ottawa Senators (1917),15,15,10,44,10,1,0,30
+8444850,Henry Harris,Boston Bruins,4,2,20,32,20,0,0,6
+8445026,Marty Barry,Boston Bruins,11,20,26,44,26,2,0,31
+8445037,Red Beattie,Boston Bruins,11,10,22,32,22,3,1,21
+8445362,Art Chapman,Boston Bruins,7,7,18,44,18,1,0,14
+8445474,Dit Clapper,Boston Bruins,8,22,50,43,50,2,0,30
+8445843,Harold Darragh,Boston Bruins,5,3,10,34,10,2,0,8
+8446557,Dutch Gainor,Boston Bruins,3,8,14,35,14,2,0,11
+8446558,Percy Galbraith,Boston Bruins,3,2,32,44,32,0,0,5
+8446886,Lionel Hitchman,Boston Bruins,2,0,46,41,46,0,0,2
+8447012,Bill Hutton,Boston Bruins,0,1,4,30,4,0,0,1
+8447534,Ron Lyons,Boston Bruins,4,2,23,36,23,0,1,6
+8448055,Harry Oliver,Boston Bruins,14,16,20,44,20,3,0,30
+8448078,George Owen,Boston Bruins,13,12,33,38,33,2,0,25
+8448188,Jack Pratt,Boston Bruins,0,2,36,32,36,0,0,2
+8448605,Paul Runge,Boston Bruins,0,0,0,1,0,0,0,0
+8449024,Eddie Shore,Boston Bruins,16,15,107,44,107,5,0,31
+8449381,Cooney Weiland,Boston Bruins,13,25,14,44,14,6,0,38
+8445029,Cliff Barton,Philadelphia Quakers,7,6,21,43,21,0,0,13
+8445741,D'arcy Coulson,Philadelphia Quakers,0,0,103,28,103,0,0,0
+8445818,Stan Crossett,Philadelphia Quakers,0,0,10,21,10,0,0,0
+8445843,Harold Darragh,Philadelphia Quakers,5,3,10,34,10,2,0,8
+8445955,Herb Drury,Philadelphia Quakers,3,0,10,24,10,0,0,3
+8446489,Gord Fraser,Philadelphia Quakers,0,0,29,5,29,0,0,0
+8446924,Syd Howe,Philadelphia Quakers,11,9,22,44,22,2,0,20
+8447012,Bill Hutton,Philadelphia Quakers,0,1,4,30,4,0,0,1
+8447050,James Jarvis,Philadelphia Quakers,7,5,32,44,32,0,0,12
+8447183,Wally Kilrea,Philadelphia Quakers,11,8,26,44,26,0,0,19
+8447523,Gerry Lowrey,Philadelphia Quakers,14,12,27,43,27,1,1,26
+8447534,Ron Lyons,Philadelphia Quakers,4,2,23,36,23,0,1,6
+8447602,Rennison Manners,Philadelphia Quakers,0,0,0,4,0,0,0,0
+8447671,Eddie McCalmon,Philadelphia Quakers,0,3,6,16,6,0,0,3
+8447795,John McKinnon,Philadelphia Quakers,1,1,46,39,46,0,0,2
+8447859,Hib Milks,Philadelphia Quakers,6,18,42,44,42,0,0,24
+8449019,Al Shields,Philadelphia Quakers,4,7,102,43,102,0,0,11
+8449082,Rodger Smith,Philadelphia Quakers,0,0,8,9,8,0,0,0
+8449392,Tex White,Philadelphia Quakers,0,3,2,9,2,1,0,3
+8445262,Marty Burke,Montréal Canadiens,5,2,104,44,104,0,0,7
+8446553,Johnny Gagnon,Montréal Canadiens,8,18,45,41,45,5,1,26
+8447110,Aurel Joliat,Montréal Canadiens,22,13,73,43,73,3,0,35
+8447328,Wildor Larochelle,Montréal Canadiens,5,8,35,40,35,3,0,13
+8447371,Albert Leduc,Montréal Canadiens,6,8,84,44,84,1,0,14
+8447466,Pit Lepine,Montréal Canadiens,7,17,65,44,65,2,0,24
+8447468,Art Lesieur,Montréal Canadiens,0,2,16,21,16,0,0,2
+8447604,Georges Mantha,Montréal Canadiens,6,11,23,44,23,1,0,17
+8447606,Sylvio Mantha,Montréal Canadiens,7,4,73,44,73,1,0,11
+8447655,Bert McCaffrey,Montréal Canadiens,1,2,10,22,10,1,0,3
+8447884,Armand Mondou,Montréal Canadiens,4,5,12,40,12,0,0,9
+8447888,Howie Morenz,Montréal Canadiens,23,28,49,39,49,5,2,51
+8448233,Jean Pusie,Montréal Canadiens,0,0,0,6,0,0,0,0
+8448346,Gus Rivers,Montréal Canadiens,5,2,4,44,4,2,1,7
+8449366,Nick Wasnie,Montréal Canadiens,2,9,26,44,26,2,0,11
+8444998,Ace Bailey,Toronto Maple Leafs,19,23,48,40,48,4,0,42
+8445093,Andy Blair,Toronto Maple Leafs,8,11,32,44,32,1,1,19
+8445471,King Clancy,Toronto Maple Leafs,14,7,63,44,63,2,0,21
+8445512,Charlie Conacher,Toronto Maple Leafs,12,31,80,38,80,3,1,43
+8445648,Baldy Cotton,Toronto Maple Leafs,17,12,47,43,47,3,0,29
+8445854,Hap Day,Toronto Maple Leafs,13,1,56,44,56,0,0,14
+8445962,Art Duncan,Toronto Maple Leafs,0,0,0,2,0,0,0,0
+8445972,Babe Dye,Toronto Maple Leafs,0,0,0,6,0,0,0,0
+8446628,Bob Gracie,Toronto Maple Leafs,2,4,4,8,4,2,0,6
+8446674,Herb Hamel,Toronto Maple Leafs,0,0,4,2,4,0,0,0
+8446915,Red Horner,Toronto Maple Leafs,11,1,73,42,73,0,0,12
+8446931,Rolly Huard,Toronto Maple Leafs,0,1,0,1,0,0,0,1
+8447025,Busher Jackson,Toronto Maple Leafs,13,18,92,43,92,5,0,31
+8447052,Roger Jenkins,Toronto Maple Leafs,1,0,14,31,14,0,0,1
+8447473,Alex Levinsky,Toronto Maple Leafs,1,0,4,8,4,0,0,1
+8448197,Joe Primeau,Toronto Maple Leafs,32,9,18,38,18,2,0,41
+8445135,George Boucher,Montreal Maroons,0,0,25,30,25,0,0,0
+8445233,Glenn Brydson,Montreal Maroons,0,0,4,14,4,0,0,0
+8445514,Lionel Conacher,Montreal Maroons,3,4,55,36,55,0,0,7
+8446559,John Gallagher,Montreal Maroons,2,4,37,35,37,1,0,6
+8446753,Paul Haynes,Montreal Maroons,0,1,0,19,0,0,0,1
+8446946,Al Huggins,Montreal Maroons,1,1,0,20,0,0,0,2
+8447828,Jack McVicar,Montreal Maroons,4,2,31,40,31,1,0,6
+8447908,Dunc Munro,Montreal Maroons,1,0,0,4,0,0,0,1
+8448034,Baldy Northcott,Montreal Maroons,3,7,11,22,11,1,0,10
+8448141,Merlyn Phillips,Montreal Maroons,1,6,42,43,42,0,0,7
+8448383,Earl Roche,Montreal Maroons,0,2,18,42,18,1,0,2
+8448421,Des Roche,Montreal Maroons,1,0,6,19,6,0,0,1
+8449038,Babe Siebert,Montreal Maroons,12,16,78,43,78,4,1,28
+8449077,Hooley Smith,Montreal Maroons,14,12,68,40,68,3,0,26
+8449189,Nels Stewart,Montreal Maroons,14,25,75,42,75,6,1,39
+8449264,Dave Trottier,Montreal Maroons,8,9,56,43,56,1,0,17
+8449341,Jimmy Ward,Montreal Maroons,8,14,56,41,56,2,0,22
+8449467,Archie Wilcox,Montreal Maroons,2,2,42,39,42,0,0,4
+8444989,Vern Ayres,New York Americans,1,2,56,26,56,0,0,3
+8445203,Bill Brydge,New York Americans,5,2,72,43,72,0,0,7
+8445255,Billy Burch,New York Americans,8,14,35,44,35,4,0,22
+8445284,Roy Burmister,New York Americans,0,0,0,11,0,0,0,0
+8445346,Frank Carson,New York Americans,7,6,40,44,40,2,0,13
+8445527,Eddie Convey,New York Americans,0,0,0,0,0,0,0,0
+8445968,Duke Dutkowski,New York Americans,4,2,46,37,46,1,0,6
+8445969,Red Dutton,New York Americans,11,1,71,44,71,0,0,12
+8446152,Hap Emms,New York Americans,4,5,56,44,56,1,0,9
+8446877,Normie Himes,New York Americans,9,15,18,44,18,7,2,24
+8446954,Albert Hughes,New York Americans,7,5,14,42,14,2,2,12
+8447634,George Massecar,New York Americans,7,4,16,43,16,0,0,11
+8447827,Charley McVeigh,New York Americans,11,5,23,44,23,1,0,16
+8447999,Mike Neville,New York Americans,0,1,2,19,2,0,0,1
+8448098,George Patterson,New York Americans,6,8,67,44,67,1,0,14
+8448210,Ellie Pringle,New York Americans,0,0,0,6,0,0,0,0
+8448241,Yip Radley,New York Americans,0,0,0,1,0,0,0,0
+8449007,Johnny Sheppard,New York Americans,8,5,16,42,16,0,0,13
+8449045,Joe Simpson,New York Americans,0,2,13,42,13,0,0,2

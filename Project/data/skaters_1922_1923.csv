@@ -1,0 +1,42 @@
+id,fullName,teamName,assists,goals,pim,games,penaltyMinutes,gameWinningGoals,overTimeGoals,points
+8445135,George Boucher,Ottawa Senators (1917),10,15,60,24,60,4,0,25
+8445168,Punch Broadbent,Ottawa Senators (1917),0,14,32,24,32,3,1,14
+8445471,King Clancy,Ottawa Senators (1917),2,3,20,24,20,1,0,5
+8445844,Jack Darragh,Ottawa Senators (1917),12,7,10,24,10,1,0,19
+8445874,Cy Denneny,Ottawa Senators (1917),12,21,28,24,28,4,0,33
+8446581,Eddie Gerard,Ottawa Senators (1917),11,6,30,23,30,0,0,17
+8446767,Harry Helman,Ottawa Senators (1917),0,0,5,24,5,0,0,0
+8446886,Lionel Hitchman,Ottawa Senators (1917),1,0,12,3,12,0,0,1
+8448011,Frank Nighbor,Ottawa Senators (1917),7,11,14,22,14,1,0,18
+8444956,Amos Arbour,Hamilton Tigers,1,6,10,23,10,2,1,7
+8445131,Edmond Bouchard,Hamilton Tigers,15,5,44,24,44,2,0,20
+8445255,Billy Burch,Hamilton Tigers,3,6,2,10,2,0,0,9
+8445326,George Carey,Hamilton Tigers,1,1,0,5,0,0,0,2
+8445571,Bert Corbeau,Hamilton Tigers,5,10,42,21,42,0,0,15
+8446629,Leth Graham,Hamilton Tigers,0,1,0,5,0,0,0,1
+8447907,Harry Mummery,Hamilton Tigers,0,0,4,7,4,0,0,0
+8448212,Goldie Prodgers,Hamilton Tigers,7,13,15,23,15,1,1,20
+8448315,Leo Reise Sr.,Hamilton Tigers,10,6,35,24,35,0,0,16
+8448349,Mickey Roach,Hamilton Tigers,9,17,8,24,8,0,0,26
+8449551,Cully Wilson,Hamilton Tigers,5,16,46,23,46,1,0,21
+8445044,Billy Bell,Montréal Canadiens,0,0,0,19,0,0,0,0
+8445071,Louis Berlinquette,Montréal Canadiens,3,2,4,24,4,1,0,5
+8445131,Edmond Bouchard,Montréal Canadiens,15,5,44,24,44,2,0,20
+8445133,Billy Boucher,Montréal Canadiens,6,23,55,24,55,5,0,29
+8445496,Odie Cleghorn,Montréal Canadiens,8,19,14,24,14,0,0,27
+8445497,Sprague Cleghorn,Montréal Canadiens,8,9,34,24,34,1,0,17
+8445744,Billy Coutu,Montréal Canadiens,4,5,37,24,37,1,0,9
+8447110,Aurel Joliat,Montréal Canadiens,10,13,31,24,31,4,0,23
+8447594,Joe Malone,Montréal Canadiens,0,1,2,20,2,1,0,1
+8448154,Didier Pitre,Montréal Canadiens,2,1,0,22,0,0,0,3
+8444861,Jack Adams,Toronto St. Patricks,12,18,66,23,66,1,0,30
+8444936,Lloyd Andrews,Toronto St. Patricks,4,5,10,24,10,3,0,9
+8445314,Harry Cameron,Toronto St. Patricks,7,9,25,23,25,3,0,16
+8445873,Corb Denneny,Toronto St. Patricks,0,1,0,1,0,0,0,1
+8445882,Gerry Denoird,Toronto St. Patricks,0,0,0,1,0,0,0,0
+8445972,Babe Dye,Toronto St. Patricks,12,27,21,22,21,5,2,39
+8448013,Reg Noble,Toronto St. Patricks,12,12,46,24,46,1,1,24
+8448246,Ken Randall,Toronto St. Patricks,7,3,58,24,58,0,0,10
+8448948,Ganton Scott,Toronto St. Patricks,0,0,0,17,0,0,0,0
+8449090,Rod Smylie,Toronto St. Patricks,0,0,0,2,0,0,0,0
+8449199,Billy Stuart,Toronto St. Patricks,3,7,16,23,16,0,0,10
