@@ -1,0 +1,156 @@
+id,fullName,teamName,assists,goals,pim,games,powerPlayGoals,powerPlayPoints,penaltyMinutes,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,points
+8444871,George Allen,Chicago Blackhawks,13,7,31,43,0,1,31,2,0,0,0,20
+8445062,Doug Bentley,Chicago Blackhawks,14,12,11,38,1,7,11,1,0,1,1,26
+8445063,Max Bentley,Chicago Blackhawks,17,13,2,39,5,7,2,1,0,0,0,30
+8445343,Bill Carse,Chicago Blackhawks,14,13,16,43,1,2,16,2,0,0,0,27
+8445344,Bob Carse,Chicago Blackhawks,16,7,10,33,2,4,10,1,0,1,1,23
+8445543,Joe Cooper,Chicago Blackhawks,14,6,58,47,1,9,58,1,0,0,0,20
+8445838,Cully Dahlstrom,Chicago Blackhawks,14,13,6,34,3,5,6,2,0,0,0,27
+8446686,Red Hamill,Chicago Blackhawks,12,24,33,43,5,7,33,4,3,0,0,36
+8446835,Phil Hergesheimer,Chicago Blackhawks,11,3,14,26,1,1,14,0,0,0,0,14
+8447104,George Johnston,Chicago Blackhawks,0,2,0,2,0,0,0,1,0,0,0,2
+8447131,Alex Kaleta,Chicago Blackhawks,21,7,24,48,0,1,24,1,1,0,0,28
+8447609,Mush March,Chicago Blackhawks,26,6,22,48,1,10,22,2,1,0,1,32
+8447613,John Mariucci,Chicago Blackhawks,8,5,64,47,2,5,64,0,0,0,0,13
+8447877,Red Mitchell,Chicago Blackhawks,0,0,4,1,0,0,4,0,0,0,0,0
+8447902,Bill Mosienko,Chicago Blackhawks,8,6,4,12,0,3,4,0,0,0,0,14
+8448084,Joe Papike,Chicago Blackhawks,0,1,0,9,0,0,0,1,0,0,0,1
+8448231,Fido Purpur,Chicago Blackhawks,0,0,0,8,0,0,0,0,0,0,0,0
+8448951,Earl Seibert,Chicago Blackhawks,14,7,52,46,1,4,52,1,0,1,1,21
+8449188,Ken Stewart,Chicago Blackhawks,1,1,0,6,0,0,0,1,0,0,0,2
+8449233,Bill Thoms,Chicago Blackhawks,30,15,8,48,2,5,8,1,0,0,1,45
+8449272,Aud Tuten,Chicago Blackhawks,1,1,10,5,0,0,10,0,0,0,0,2
+8449464,Art Wiebe,Chicago Blackhawks,4,2,20,44,0,0,20,0,0,0,0,6
+8444857,Sid Abel,Detroit Red Wings,31,18,45,48,1,3,45,3,2,0,0,49
+8445180,Adam Brown,Detroit Red Wings,9,6,15,28,0,0,15,1,0,0,0,15
+8445182,Connie Brown,Detroit Red Wings,3,0,4,9,0,0,4,0,0,0,0,3
+8445185,Gerry Brown,Detroit Red Wings,4,4,0,13,0,1,0,0,0,0,0,8
+8445194,Mud Bruneteau,Detroit Red Wings,19,14,8,48,1,1,8,2,0,0,1,33
+8445295,Eddie Bush,Detroit Red Wings,6,4,60,18,1,3,60,0,0,0,0,10
+8445349,Joe Carveth,Detroit Red Wings,11,6,2,29,1,2,2,0,0,0,0,17
+8446302,Joe Fisher,Detroit Red Wings,0,0,0,3,0,0,0,0,0,0,0,0
+8446583,Gus Giesebrecht,Detroit Red Wings,16,6,2,34,3,3,2,2,0,0,0,22
+8446612,Ebbie Goodfellow,Detroit Red Wings,2,2,2,9,0,0,2,0,0,0,0,4
+8446651,Don Grosso,Detroit Red Wings,30,23,13,48,3,7,13,1,0,1,1,53
+8446861,Dutch Hiller,Detroit Red Wings,10,7,19,50,1,1,19,2,0,0,0,17
+8446924,Syd Howe,Detroit Red Wings,19,16,6,48,2,7,6,4,0,0,0,35
+8447053,Bill Jennings,Detroit Red Wings,1,2,6,16,0,0,6,0,0,0,0,3
+8447113,Buck Jones,Detroit Red Wings,1,2,8,21,0,0,8,1,0,0,0,3
+8447182,Ken Kilrea,Detroit Red Wings,13,3,4,21,0,1,4,0,0,0,0,16
+8447501,Carl Liscombe,Detroit Red Wings,17,13,14,47,1,4,14,2,0,0,1,30
+8447656,Doug McCaig,Detroit Red Wings,1,0,6,9,0,0,6,0,0,0,0,1
+8447824,Pat McReavy,Detroit Red Wings,7,5,0,40,0,0,0,1,0,0,0,12
+8447904,Alex Motter,Detroit Red Wings,4,2,20,29,0,1,20,0,0,0,0,6
+8448066,Jimmy Orlando,Detroit Red Wings,7,1,141,48,0,1,141,0,0,0,0,8
+8449184,Jack Stewart,Detroit Red Wings,7,4,93,44,0,0,93,1,1,0,0,11
+8449359,Eddie Wares,Detroit Red Wings,29,9,31,43,1,5,31,1,0,0,0,38
+8449393,Bob Whitelaw,Detroit Red Wings,0,0,0,9,0,0,0,0,0,0,0,0
+8444931,Tom Anderson,Brooklyn Americans,29,12,64,48,1,9,64,0,0,0,1,41
+8444972,Murray Armstrong,Brooklyn Americans,22,6,15,45,0,1,15,1,0,0,0,28
+8445060,Bill Benson,Brooklyn Americans,20,8,31,45,1,5,31,1,0,0,0,28
+8445113,Buzz Boll,Brooklyn Americans,15,11,23,48,2,4,23,2,1,0,0,26
+8445155,Andy Branigan,Brooklyn Americans,2,0,26,21,0,0,26,0,0,0,0,2
+8445358,Murph Chamberlain,Brooklyn Americans,12,12,46,37,1,2,46,1,0,0,1,24
+8445467,Jack Church,Brooklyn Americans,6,1,40,42,0,1,40,0,0,0,0,7
+8446135,Pat Egan,Brooklyn Americans,20,8,124,48,2,4,124,2,0,1,2,28
+8446215,Wilf Field,Brooklyn Americans,9,6,23,41,0,1,23,1,0,1,1,15
+8446842,Red Heron,Brooklyn Americans,2,1,14,23,0,1,14,0,0,0,0,3
+8446860,Mel Hill,Brooklyn Americans,23,14,10,47,5,10,10,1,0,0,1,37
+8447148,Pete Kelly,Brooklyn Americans,1,0,4,8,0,0,4,0,0,0,0,1
+8447150,Pep Kelly,Brooklyn Americans,0,1,0,8,0,0,0,0,0,0,0,1
+8447226,Nick Knott,Brooklyn Americans,1,3,9,14,2,2,9,0,1,0,0,4
+8447235,Joe Krol,Brooklyn Americans,3,9,8,24,0,0,8,0,0,0,0,12
+8447331,Norm Larson,Brooklyn Americans,9,16,6,40,2,2,6,2,0,0,0,25
+8447614,Gus Marker,Brooklyn Americans,5,2,2,17,0,0,2,1,0,1,1,7
+8447647,Hazen McAndrew,Brooklyn Americans,1,0,6,7,0,0,6,0,0,0,0,1
+8447901,Ken Mosdell,Brooklyn Americans,9,7,16,41,1,1,16,0,0,0,0,16
+8448051,Peanuts O'Flaherty,Brooklyn Americans,1,1,0,11,0,0,0,0,0,0,0,2
+8449204,Bill Summerhill,Brooklyn Americans,5,5,18,16,1,2,18,0,0,0,0,10
+8449239,Fred Thurier,Brooklyn Americans,7,7,4,27,1,4,4,2,2,1,1,14
+8449369,Harry Watson,Brooklyn Americans,8,10,6,47,0,1,6,2,0,0,0,18
+8449636,Ralph Wycherley,Brooklyn Americans,2,0,2,2,0,1,2,0,0,0,0,2
+8445291,Norm Burns,New York Rangers,4,0,2,11,0,2,2,0,0,0,0,4
+8445508,Mac Colville,New York Rangers,16,14,26,46,2,5,26,3,1,1,1,30
+8445509,Neil Colville,New York Rangers,25,8,37,48,1,5,37,0,0,0,2,33
+8445742,Art Coulter,New York Rangers,16,1,31,47,0,2,31,0,0,0,0,17
+8446766,Ott Heller,New York Rangers,5,6,22,35,0,0,22,2,0,2,3,11
+8446850,Bryan Hextall Sr.,New York Rangers,32,24,30,48,4,8,30,3,2,1,3,56
+8447126,Bill Juzda,New York Rangers,8,4,29,45,0,0,29,2,0,0,0,12
+8447250,Alan Kuntz,New York Rangers,11,10,10,31,1,1,10,2,1,0,0,21
+8447539,Hub Macey,New York Rangers,5,3,0,9,1,1,0,1,0,0,0,8
+8448096,Lynn Patrick,New York Rangers,23,32,18,47,4,6,18,6,1,0,1,55
+8448151,Alf Pike,New York Rangers,19,8,16,34,2,3,16,0,0,0,0,27
+8448187,Babe Pratt,New York Rangers,24,4,65,47,0,2,65,1,0,0,0,28
+8449018,Alex Shibicky,New York Rangers,14,20,16,45,4,5,16,3,1,0,1,34
+8449068,Clint Smith,New York Rangers,25,10,4,47,0,4,4,3,0,0,0,35
+8449271,Norm Tustin,New York Rangers,4,2,0,18,0,1,0,1,0,0,0,6
+8449363,Grant Warwick,New York Rangers,17,16,36,44,1,4,36,1,0,0,0,33
+8449372,Phil Watson,New York Rangers,37,15,58,48,2,5,58,1,0,1,3,52
+8445034,Bobby Bauer,Boston Bruins,22,13,11,36,3,5,11,3,1,0,1,35
+8445190,Gordie Bruce,Boston Bruins,8,4,11,15,0,0,11,0,0,0,0,12
+8445307,Herb Cain,Boston Bruins,10,8,2,35,0,1,2,0,0,0,0,18
+8445474,Dit Clapper,Boston Bruins,12,3,31,32,1,4,31,0,0,0,0,15
+8445517,Roy Conacher,Boston Bruins,13,24,12,43,4,6,12,6,2,0,0,37
+8445754,Bill Cowley,Boston Bruins,23,4,6,28,0,3,6,0,0,0,0,27
+8445767,Jack Crawford,Boston Bruins,9,2,37,43,1,1,37,0,1,0,0,11
+8445961,Woody Dumart,Boston Bruins,15,14,8,35,0,1,8,0,0,0,0,29
+8446648,Lloyd Gronsdahl,Boston Bruins,2,1,0,10,0,0,0,0,0,0,0,3
+8446686,Red Hamill,Boston Bruins,12,24,33,43,5,7,33,4,3,0,0,36
+8446835,Phil Hergesheimer,Boston Bruins,11,3,14,26,1,1,14,0,0,0,0,14
+8446861,Dutch Hiller,Boston Bruins,10,7,19,50,1,1,19,2,0,0,0,17
+8446895,Flash Hollett,Boston Bruins,14,19,21,48,2,3,21,5,0,0,0,33
+8447023,Art Jackson,Boston Bruins,18,6,25,47,1,3,25,0,0,0,0,24
+8447025,Busher Jackson,Boston Bruins,7,5,18,26,1,2,18,1,0,0,0,12
+8447612,Frank Mario,Boston Bruins,1,1,0,9,0,0,0,0,0,0,0,2
+8447623,Clare Martin,Boston Bruins,1,0,4,13,0,0,4,0,0,0,0,1
+8447773,Jack McGill,Boston Bruins,11,8,2,13,0,4,2,1,0,0,0,19
+8447824,Pat McReavy,Boston Bruins,7,5,0,40,0,0,0,1,0,0,0,12
+8448931,Milt Schmidt,Boston Bruins,21,14,34,36,0,2,34,2,1,1,1,35
+8449017,Jack Shewchuk,Boston Bruins,0,2,14,22,1,1,14,0,0,0,0,2
+8449071,Des Smith,Boston Bruins,8,7,80,48,0,1,80,2,0,0,0,15
+8449229,Cliff Thompson,Boston Bruins,0,0,2,6,0,0,2,0,0,0,0,0
+8449593,Eddie Wiseman,Boston Bruins,22,12,8,45,3,6,8,3,2,0,0,34
+8445059,Joe Benoit,Montréal Canadiens,16,20,27,46,7,9,27,3,1,0,0,36
+8445098,Toe Blake,Montréal Canadiens,28,17,39,48,3,9,39,1,0,1,1,45
+8445132,Butch Bouchard,Montréal Canadiens,6,0,38,44,0,0,38,0,0,0,0,6
+8445358,Murph Chamberlain,Montréal Canadiens,12,12,46,37,1,2,46,1,0,0,1,24
+8445841,Bunny Dame,Montréal Canadiens,5,2,4,31,0,1,4,0,0,0,0,7
+8445868,Tony Demers,Montréal Canadiens,4,3,4,7,1,2,4,0,0,0,0,7
+8446582,Ray Getliffe,Montréal Canadiens,15,11,55,47,1,3,55,0,0,0,0,26
+8446621,Red Goupille,Montréal Canadiens,5,1,51,48,0,0,51,0,0,0,0,6
+8446627,Tony Graboski,Montréal Canadiens,5,2,8,23,1,4,8,0,0,0,0,7
+8446659,Jim Haggarty,Montréal Canadiens,1,1,0,5,1,1,0,0,0,0,0,2
+8446762,Gerry Heffernan,Montréal Canadiens,15,5,15,41,3,8,15,1,1,0,0,20
+8446842,Red Heron,Montréal Canadiens,2,1,14,23,0,1,14,0,0,0,0,3
+8447271,Elmer Lach,Montréal Canadiens,1,0,0,1,0,0,0,0,0,0,0,1
+8447309,Leo Lamoureux,Montréal Canadiens,0,0,0,1,0,0,0,0,0,0,0,0
+8447516,Rod Lorrain,Montréal Canadiens,0,1,0,4,0,0,0,0,0,0,0,1
+8447889,Pete Morin,Montréal Canadiens,12,10,7,32,4,9,7,2,0,0,0,22
+8448042,Buddy O'Connor,Montréal Canadiens,16,9,4,36,0,10,4,2,1,0,0,25
+8448061,Jim O'Neil,Montréal Canadiens,1,0,4,4,0,0,4,0,0,0,0,1
+8448179,Jack Portland,Montréal Canadiens,9,2,53,46,0,0,53,1,1,0,0,11
+8448239,John Quilty,Montréal Canadiens,12,12,44,48,1,1,44,2,0,0,0,24
+8448257,Ken Reardon,Montréal Canadiens,12,3,93,41,1,4,93,1,0,0,0,15
+8448258,Terry Reardon,Montréal Canadiens,17,17,24,33,5,8,24,2,0,0,0,34
+8448784,Charlie Sands,Montréal Canadiens,16,11,6,39,2,6,6,3,0,0,0,27
+8449086,Stu Smith,Montréal Canadiens,1,0,0,1,0,0,0,0,0,0,0,1
+8449268,Connie Tudin,Montréal Canadiens,1,0,4,4,0,1,4,0,0,0,0,1
+8444954,Syl Apps,Toronto Maple Leafs,23,18,0,38,4,7,0,1,0,0,0,41
+8445333,Lorne Carr,Toronto Maple Leafs,17,16,4,47,0,3,4,4,1,1,1,33
+8445467,Jack Church,Toronto Maple Leafs,6,1,40,42,0,1,40,0,0,0,0,7
+8445846,Bob Davidson,Toronto Maple Leafs,20,6,39,37,0,6,39,3,0,1,1,26
+8445902,Ernie Dickens,Toronto Maple Leafs,2,2,6,10,0,1,6,0,0,0,0,4
+8445950,Gordie Drillon,Toronto Maple Leafs,18,23,6,48,5,7,6,1,0,0,0,41
+8446603,Bob Goldham,Toronto Maple Leafs,7,4,25,19,1,1,25,0,0,0,0,11
+8446610,Hank Goldup,Toronto Maple Leafs,18,12,13,44,0,1,13,2,1,1,1,30
+8446689,Reg Hamilton,Toronto Maple Leafs,4,0,27,22,0,0,27,0,0,0,0,4
+8447133,Bingo Kampman,Toronto Maple Leafs,7,4,67,38,0,1,67,0,0,0,0,11
+8447320,Pete Langelle,Toronto Maple Leafs,22,10,9,48,0,1,9,3,0,0,1,32
+8447724,John McCreedy,Toronto Maple Leafs,8,15,14,47,2,2,14,5,0,0,0,23
+8447746,Bucko McDonald,Toronto Maple Leafs,19,2,24,48,0,4,24,0,0,0,0,21
+8447849,Don Metz,Toronto Maple Leafs,3,2,8,25,0,1,8,1,0,0,0,5
+8447850,Nick Metz,Toronto Maple Leafs,9,11,20,30,4,8,20,2,1,0,0,20
+8448946,Sweeney Schriner,Toronto Maple Leafs,16,20,21,47,3,3,21,0,0,2,3,36
+8449157,Wally Stanowski,Toronto Maple Leafs,7,1,10,24,0,1,10,0,0,0,0,8
+8449216,Billy Taylor Sr.,Toronto Maple Leafs,26,12,20,48,1,4,20,5,0,1,1,38
+8449183,Gaye Stewart,Toronto Maple Leafs,0,0,0,0,0,0,0,0,0,0,0,0

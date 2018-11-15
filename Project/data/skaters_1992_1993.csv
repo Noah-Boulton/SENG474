@@ -1,0 +1,782 @@
+id,fullName,teamName,assists,goals,pim,shots,games,powerPlayGoals,powerPlayPoints,penaltyMinutes,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,plusMinus,points
+8446017,Gino Cavallini,Quebec Nordiques,15,9,34,71,67,0,0,34,12.7,0,0,0,0,10,24
+8446494,Steve Duchesne,Quebec Nordiques,62,20,57,227,82,8,45,57,8.8,2,0,0,0,15,82
+8446825,Steven Finn,Quebec Nordiques,9,5,160,61,80,0,0,160,8.2,0,0,0,0,-3,14
+8447363,Alexei Gusarov,Quebec Nordiques,22,8,57,60,79,0,1,57,13.3,1,0,2,5,18,30
+8447985,Mike Hough,Quebec Nordiques,22,8,69,98,77,2,4,69,8.2,2,0,1,1,-11,30
+8448048,Kerry Huffman,Quebec Nordiques,18,4,54,86,52,3,11,54,4.7,0,0,0,0,0,22
+8448118,Tim Hunter,Quebec Nordiques,7,5,193,40,74,0,0,193,12.5,0,0,0,0,-3,12
+8448674,Claude Lapointe,Quebec Nordiques,26,10,98,91,74,0,1,98,11.0,1,0,0,0,5,36
+8448797,Curtis Leschyshyn,Quebec Nordiques,23,9,61,73,82,4,8,61,12.3,2,0,0,0,25,32
+8449895,Owen Nolan,Quebec Nordiques,41,36,185,241,73,15,30,185,14.9,4,1,0,0,-1,77
+8450267,Scott Pearson,Quebec Nordiques,1,13,95,45,41,0,0,95,28.9,1,0,0,0,3,14
+8450817,Mike Ricci,Quebec Nordiques,51,27,123,142,77,12,35,123,19.0,10,0,1,4,8,78
+8451101,Joe Sakic,Quebec Nordiques,57,48,40,264,78,20,47,40,18.2,4,0,2,3,-3,105
+8451774,Mats Sundin,Quebec Nordiques,67,47,96,215,80,13,47,96,21.9,9,1,4,9,21,114
+8451840,Mikhail Tatarinov,Quebec Nordiques,6,2,28,46,28,1,4,28,4.3,0,0,0,0,6,8
+8452019,Tony Twist,Quebec Nordiques,2,0,64,14,34,0,0,64,0.0,0,0,0,0,0,2
+8452516,Craig Wolanin,Quebec Nordiques,4,1,49,17,24,0,0,49,5.9,0,0,0,1,9,5
+8452569,Scott Young,Quebec Nordiques,30,30,20,225,82,9,26,20,13.3,5,1,6,6,5,60
+8455447,Niklas Andersson,Quebec Nordiques,1,0,2,4,3,0,0,2,0.0,0,0,0,0,0,1
+8456202,Leonard Esau,Quebec Nordiques,1,0,2,1,4,0,0,2,0.0,0,0,0,0,1,1
+8456283,Adam Foote,Quebec Nordiques,12,4,168,54,81,0,0,168,7.4,0,0,1,3,6,16
+8456770,Valeri Kamensky,Quebec Nordiques,22,15,14,94,32,2,7,14,16.0,0,0,3,5,13,37
+8456882,Andrei Kovalenko,Quebec Nordiques,41,27,57,153,81,8,14,57,17.6,4,1,1,2,13,68
+8458031,Chris Simon,Quebec Nordiques,1,1,67,15,16,0,0,67,6.7,1,0,0,0,-2,2
+8458534,Martin Rucinsky,Quebec Nordiques,30,18,51,133,77,4,13,51,13.5,1,0,0,0,16,48
+8458582,Dave Karpa,Quebec Nordiques,1,0,13,2,12,0,0,13,0.0,0,0,0,0,-6,1
+8458617,Bill Lindsay,Quebec Nordiques,9,4,16,58,44,0,0,16,6.9,0,0,0,0,0,13
+8445683,Andy Brickley,Winnipeg Jets (1979),2,0,2,5,12,0,0,2,0.0,0,0,0,0,0,2
+8445938,Randy Carlyle,Winnipeg Jets (1979),1,1,14,21,22,0,0,14,4.8,0,0,0,0,-6,2
+8446454,Tie Domi,Winnipeg Jets (1979),10,5,344,40,61,0,0,344,12.5,0,0,0,0,1,15
+8446485,Kris Draper,Winnipeg Jets (1979),0,0,2,5,7,0,0,2,0.0,0,0,0,0,-6,0
+8446487,John Druce,Winnipeg Jets (1979),14,6,37,60,50,0,0,37,10.0,0,0,0,0,-4,20
+8446551,Mike Eagles,Winnipeg Jets (1979),18,8,131,67,84,1,1,131,11.9,1,0,0,0,-1,26
+8446705,Bryan Erickson,Winnipeg Jets (1979),12,4,14,45,41,2,5,14,8.9,1,0,0,0,2,16
+8447989,Phil Housley,Winnipeg Jets (1979),79,18,52,249,80,6,56,52,7.2,2,0,0,0,-14,97
+8448374,Robert Joyce,Winnipeg Jets (1979),0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+8448449,Dean Kennedy,Winnipeg Jets (1979),7,1,105,50,78,0,0,105,2.0,1,0,0,1,-3,8
+8448467,Alan Kerr,Winnipeg Jets (1979),1,0,2,1,7,0,0,2,0.0,0,0,0,0,-4,1
+8448487,Kris King,Winnipeg Jets (1979),11,8,203,74,78,0,0,203,10.8,1,0,0,0,4,19
+8448633,Mike Lalor,Winnipeg Jets (1979),8,1,76,75,64,0,1,76,1.3,0,0,0,0,-10,9
+8448765,John Leblanc,Winnipeg Jets (1979),0,0,2,5,3,0,0,2,0.0,0,0,0,0,0,0
+8449761,Rob Murray,Winnipeg Jets (1979),0,1,6,4,10,0,0,6,25.0,1,0,0,0,0,1
+8449773,Troy Murray,Winnipeg Jets (1979),7,4,59,77,51,2,2,59,5.2,0,0,0,0,-15,11
+8449924,Teppo Numminen,Winnipeg Jets (1979),30,7,33,103,66,3,10,33,6.8,0,0,1,1,4,37
+8449971,Fredrik Olausson,Winnipeg Jets (1979),41,16,22,165,68,11,38,22,9.7,3,0,0,0,-4,57
+8449973,Eddie Olczyk,Winnipeg Jets (1979),28,21,52,190,71,2,14,52,11.1,1,0,0,0,-2,49
+8451334,Darrin Shannon,Winnipeg Jets (1979),40,20,91,116,84,12,21,91,17.2,2,0,0,1,-4,60
+8451697,Thomas Steen,Winnipeg Jets (1979),50,22,75,150,80,6,31,75,14.7,6,1,0,0,-8,72
+8455521,Stu Barnes,Winnipeg Jets (1979),10,12,10,73,38,3,4,10,16.4,3,0,0,0,-3,22
+8455659,Luciano Borsato,Winnipeg Jets (1979),20,15,38,101,67,1,1,38,14.9,3,0,1,2,-1,35
+8456019,Evgeny Davydov,Winnipeg Jets (1979),21,28,66,176,79,7,13,66,15.9,2,0,0,0,-2,49
+8456153,Dallas Eakins,Winnipeg Jets (1979),2,0,38,9,14,0,0,38,0.0,0,0,0,0,2,2
+8457061,Scott Levins,Winnipeg Jets (1979),1,0,18,8,9,0,0,18,0.0,0,0,0,0,-2,1
+8457589,Mark Osiecki,Winnipeg Jets (1979),4,1,19,26,43,1,1,19,3.8,0,0,0,0,-20,5
+8457847,Russell Romaniuk,Winnipeg Jets (1979),1,3,22,20,28,0,0,22,15.0,1,1,0,0,0,4
+8457981,Teemu Selanne,Winnipeg Jets (1979),56,76,45,387,84,24,49,45,19.6,7,0,0,0,8,132
+8458229,Keith Tkachuk,Winnipeg Jets (1979),23,28,201,199,83,12,18,201,14.1,2,0,0,0,-13,51
+8458487,Alexei Zhamnov,Winnipeg Jets (1979),47,25,58,163,68,6,22,58,15.3,4,0,1,1,7,72
+8458715,Igor Ulanov,Winnipeg Jets (1979),14,2,124,26,56,0,0,124,7.7,0,0,0,1,6,16
+8458953,Sergei Bautin,Winnipeg Jets (1979),18,5,96,82,71,0,1,96,6.1,0,0,0,0,-2,23
+8459359,Anatoli Fedotov,Winnipeg Jets (1979),2,0,0,1,1,0,0,0,0.0,0,0,0,0,1,2
+8444919,Tommy Albelin,New Jersey Devils,5,1,14,33,36,1,3,14,3.0,1,0,0,0,0,6
+8445273,Dave Barr,New Jersey Devils,8,6,61,41,62,0,0,61,14.6,1,0,1,1,1,14
+8445730,Doug Brown,New Jersey Devils,5,0,2,17,15,0,0,2,0.0,0,0,0,0,3,5
+8446026,Tom Chorske,New Jersey Devils,12,7,25,63,50,0,0,25,11.1,1,0,0,0,-1,19
+8446133,Zdeno Ciger,New Jersey Devils,23,13,8,106,64,2,11,8,12.3,2,1,0,3,-13,36
+8446309,Ken Daneyko,New Jersey Devils,11,2,236,71,84,0,0,236,2.8,0,0,0,0,4,13
+8446484,Bruce Driver,New Jersey Devils,40,14,66,177,83,6,24,66,7.9,0,0,0,1,-10,54
+8446789,Viacheslav Fetisov,New Jersey Devils,23,4,158,63,76,1,5,158,6.3,0,0,1,2,7,27
+8447958,Bobby Holik,New Jersey Devils,19,20,76,180,61,7,14,76,11.1,4,1,0,0,-6,39
+8448416,Alexei Kasatonov,New Jersey Devils,14,3,57,63,64,0,0,57,4.8,0,0,0,1,4,17
+8448772,Claude Lemieux,New Jersey Devils,51,30,155,311,77,13,35,155,9.6,3,0,0,0,3,81
+8449094,Troy Mallette,New Jersey Devils,3,4,56,19,34,0,0,56,21.1,0,0,0,0,3,7
+8449450,Randy McKay,New Jersey Devils,11,11,206,94,73,1,1,206,11.7,2,1,0,0,0,22
+8449499,John MacLean,New Jersey Devils,24,24,102,195,80,7,12,102,12.3,3,0,1,1,-6,48
+8449632,Jason Miller,New Jersey Devils,0,0,0,1,2,0,0,0,0.0,0,0,0,0,-1,0
+8449718,Jon Morris,New Jersey Devils,3,0,6,12,15,0,1,6,0.0,0,0,0,0,-11,3
+8449881,Bernie Nicholls,New Jersey Devils,47,13,80,132,69,5,26,80,9.8,1,0,0,0,-13,60
+8449939,Myles O'Connor,New Jersey Devils,0,0,9,4,7,0,0,9,0.0,0,0,0,0,-4,0
+8449964,Janne Ojanen,New Jersey Devils,9,4,14,44,31,1,6,14,9.1,1,0,0,0,-2,13
+8450825,Stephane Richer,New Jersey Devils,35,38,44,286,78,7,19,44,13.3,7,2,1,1,-1,73
+8451392,Jarrod Skalde,New Jersey Devils,2,0,4,11,11,0,0,4,0.0,0,0,0,0,-3,2
+8451689,Peter Stastny,New Jersey Devils,23,17,22,106,62,7,18,22,16.0,3,0,0,0,-5,40
+8451715,Scott Stevens,New Jersey Devils,45,12,120,146,81,8,21,120,8.2,1,0,0,0,14,57
+8451901,Kevin Todd,New Jersey Devils,14,9,26,87,55,0,4,26,10.3,3,0,0,0,-9,23
+8452225,Claude Vilgrain,New Jersey Devils,2,0,0,2,4,0,0,0,0.0,0,0,0,0,-3,2
+8456100,Jim Dowd,New Jersey Devils,0,0,0,1,1,0,0,0,0.0,0,0,0,0,-1,0
+8456182,David Emma,New Jersey Devils,0,0,0,2,2,0,0,0,0.0,0,0,0,0,0,0
+8456464,Bill Guerin,New Jersey Devils,20,14,63,123,65,0,1,63,11.4,2,0,0,0,14,34
+8456496,Ben Hankinson,New Jersey Devils,1,2,9,3,4,0,0,9,66.7,0,0,0,0,2,3
+8457646,Scott Pellerin,New Jersey Devils,11,10,41,60,45,1,1,41,16.7,0,0,2,2,-1,21
+8457983,Alexander Semak,New Jersey Devils,42,37,70,217,82,4,14,70,17.1,6,0,1,4,24,79
+8458152,Brian Sullivan,New Jersey Devils,1,0,0,2,2,0,0,0,0.0,0,0,0,0,-1,1
+8458483,Valeri Zelepukin,New Jersey Devils,41,23,70,174,78,5,14,70,13.2,2,0,1,1,19,64
+8458517,Scott Niedermayer,New Jersey Devils,29,11,47,131,80,5,19,47,8.4,0,0,0,0,8,40
+8444893,Jim Agnew,Hartford Whalers,0,0,68,3,16,0,0,68,0.0,0,0,0,0,3,0
+8445783,Adam Burt,Hartford Whalers,14,6,116,81,65,0,2,116,7.4,0,0,0,0,-11,20
+8446003,Andrew Cassels,Hartford Whalers,64,21,62,134,84,8,38,62,15.7,1,0,3,7,-11,85
+8446163,Yvon Corriveau,Hartford Whalers,12,8,14,77,57,2,2,14,10.4,1,0,0,0,-20,20
+8446217,Murray Craven,Hartford Whalers,52,25,32,151,77,6,28,32,16.6,2,2,3,6,-1,77
+8446251,John Cullen,Hartford Whalers,32,18,111,124,66,13,30,111,14.5,1,0,0,0,-23,50
+8446261,Randy Cunneyworth,Hartford Whalers,4,5,63,47,39,0,0,63,10.6,1,0,0,0,-1,9
+8447192,Paul Gillis,Hartford Whalers,1,1,40,8,21,0,0,40,12.5,0,0,0,0,-2,2
+8447313,Christopher Govedaris,Hartford Whalers,0,1,0,6,7,0,0,0,16.7,0,0,0,0,-2,1
+8447383,Mark Greig,Hartford Whalers,7,1,27,16,22,0,2,27,6.3,0,0,0,0,-11,8
+8447981,Doug Houda,Hartford Whalers,6,2,167,43,60,0,0,167,4.7,0,0,0,0,-19,8
+8448225,Mark Janssens,Hartford Whalers,17,12,237,63,76,0,0,237,19.0,1,1,0,0,-15,29
+8448419,Dan Keczmer,Hartford Whalers,4,4,28,38,23,2,3,28,10.5,1,0,0,0,-3,8
+8448471,Tim Kerr,Hartford Whalers,6,0,7,48,22,0,0,7,0.0,0,0,0,0,-11,6
+8448521,Steve Konroyd,Hartford Whalers,12,3,67,66,65,0,2,67,4.5,0,0,0,1,-15,15
+8448539,Nick Kypreos,Hartford Whalers,10,17,325,81,75,0,0,325,21.0,2,0,0,0,-5,27
+8448542,Robert Kron,Hartford Whalers,13,14,18,97,45,4,4,18,14.4,2,0,2,2,5,27
+8448616,Randy Ladouceur,Hartford Whalers,4,2,109,37,62,0,0,109,5.4,0,0,0,1,-18,6
+8448771,Jamie Leach,Hartford Whalers,2,3,4,19,24,0,0,4,15.8,0,0,0,0,-7,5
+8449477,Jim McKenzie,Hartford Whalers,6,3,202,36,64,0,0,202,8.3,0,0,0,0,-10,9
+8450270,Allen Pedersen,Hartford Whalers,4,1,60,16,59,0,0,60,6.3,0,0,0,0,0,5
+8452216,Pat Verbeek,Hartford Whalers,43,39,197,235,84,16,31,197,16.6,6,0,0,0,-7,82
+8452353,Eric Weinrich,Hartford Whalers,29,7,76,104,79,0,8,76,6.7,2,0,2,3,-11,36
+8452557,Terry Yake,Hartford Whalers,31,22,46,98,66,4,14,46,22.4,2,0,1,3,3,53
+8452584,Zarley Zalapski,Hartford Whalers,51,14,94,192,83,8,39,94,7.3,0,0,1,5,-34,65
+8456009,Scott Daniels,Hartford Whalers,0,0,19,0,1,0,0,19,0.0,0,0,0,0,0,0
+8456023,Joseph Day,Hartford Whalers,7,1,47,10,24,0,0,47,10.0,0,0,0,0,-8,8
+8457921,Geoff Sanderson,Hartford Whalers,43,46,28,271,82,21,41,28,17.0,4,0,2,3,-21,89
+8458523,Patrick Poulin,Hartford Whalers,31,20,37,160,81,4,10,37,12.5,2,0,0,0,-19,51
+8458573,Michael Nylander,Hartford Whalers,22,11,36,85,59,3,7,36,12.9,1,0,0,0,-7,33
+8458821,Barry Nieckar,Hartford Whalers,0,0,2,1,2,0,0,2,0.0,0,0,0,0,-2,0
+8458946,Robert Petrovicky,Hartford Whalers,6,3,45,41,42,0,1,45,7.3,0,0,0,0,-10,9
+8445423,Benoit Hogue,New York Islanders,42,33,108,147,70,5,12,108,22.4,5,0,3,6,13,75
+8445424,Bill Berg,New York Islanders,11,13,103,113,80,0,0,103,11.5,2,0,3,3,3,24
+8446289,Brad Dalgarno,New York Islanders,17,15,62,62,57,2,3,62,24.2,2,0,0,0,17,32
+8446823,Ray Ferraro,New York Islanders,13,14,40,72,46,3,4,40,19.4,1,0,0,0,0,27
+8446830,Tom Fitzgerald,New York Islanders,18,9,34,83,77,0,0,34,10.8,1,0,3,5,-2,27
+8446838,Patrick Flatley,New York Islanders,47,13,63,139,80,1,10,63,9.4,1,0,2,3,5,60
+8448489,Derek King,New York Islanders,38,38,47,201,77,21,43,47,18.9,7,1,0,0,-4,76
+8448554,Uwe Krupp,New York Islanders,29,9,67,116,80,2,17,67,7.8,2,0,0,1,6,38
+8448555,Richard Kromm,New York Islanders,2,1,0,2,1,0,0,0,50.0,0,0,0,0,3,3
+8448568,Tom Kurvers,New York Islanders,30,8,38,128,52,3,20,38,6.3,0,0,0,0,9,38
+8448870,Claude Loiselle,New York Islanders,3,5,90,41,41,0,0,90,12.2,0,0,0,0,-5,8
+8449174,Daniel Marois,New York Islanders,5,2,35,41,28,0,0,35,4.9,0,0,0,0,-3,7
+8449742,Brian Mullen,New York Islanders,14,18,28,126,81,1,2,28,14.3,1,0,0,1,5,32
+8449902,Jeff Norton,New York Islanders,38,12,45,127,66,5,24,45,9.4,0,0,0,0,-3,50
+8449925,Gary Nylund,New York Islanders,1,1,43,19,22,0,0,43,5.3,0,0,0,0,-2,2
+8450197,Gregory Parks,New York Islanders,0,0,0,3,2,0,0,0,0.0,0,0,0,0,0,0
+8450389,Rich Pilon,New York Islanders,3,1,164,20,44,0,0,164,5.0,0,0,0,0,-4,4
+8451898,Steve Thomas,New York Islanders,50,37,111,264,79,12,38,111,14.0,7,0,0,0,3,87
+8451954,Graeme Townshend,New York Islanders,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+8451991,Pierre Turgeon,New York Islanders,74,58,26,301,83,24,54,26,19.3,10,2,0,1,-1,132
+8452239,David Volek,New York Islanders,13,8,34,118,56,2,3,34,6.8,1,0,0,0,-1,21
+8452240,Mick Vukota,New York Islanders,5,2,216,37,74,0,0,216,5.4,0,0,0,0,3,7
+8456306,Iain Fraser,New York Islanders,2,2,2,7,7,1,2,2,28.6,0,0,0,0,-1,4
+8456430,Travis Green,New York Islanders,18,7,43,115,61,1,2,43,6.1,0,0,0,0,4,25
+8457191,Vladimir Malakhov,New York Islanders,38,14,59,178,64,7,22,59,7.9,0,0,0,0,14,52
+8457319,Marty McInnis,New York Islanders,20,10,24,60,56,0,2,24,16.7,0,0,1,1,7,30
+8458300,Dennis Vaske,New York Islanders,5,1,32,15,27,0,0,32,6.7,0,0,0,0,9,6
+8458518,Scott Lachance,New York Islanders,17,7,67,62,75,0,2,67,11.3,2,0,1,3,-1,24
+8458942,Darius Kasparaitis,New York Islanders,17,4,166,92,79,0,0,166,4.3,0,0,0,1,15,21
+8457971,Scott Scissons,New York Islanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8458606,Steve Junker,New York Islanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8445461,Jeff Beukeboom,New York Rangers,17,2,153,54,82,0,0,153,3.7,0,0,0,1,9,19
+8445629,Phil Bourque,New York Rangers,14,6,39,71,55,0,3,39,8.5,2,1,0,0,-9,20
+8445736,Paul Broten,New York Rangers,9,5,48,57,60,0,0,48,8.8,0,0,1,3,-6,14
+8446062,Joe Cirella,New York Rangers,6,3,85,37,55,0,1,85,8.1,0,0,1,1,1,9
+8446454,Tie Domi,New York Rangers,10,5,344,40,61,0,0,344,12.5,0,0,0,0,1,15
+8446455,Per Djoos,New York Rangers,1,1,2,4,6,0,1,2,25.0,0,0,0,0,0,2
+8446508,Craig Duncanson,New York Rangers,1,0,0,1,3,0,0,0,0.0,0,0,0,0,0,1
+8446712,Jan Erixon,New York Rangers,11,5,10,36,45,0,0,10,13.9,1,0,1,2,11,16
+8447067,Mike Gartner,New York Rangers,23,45,59,323,84,13,21,59,13.9,3,0,0,0,-4,68
+8447180,Randy Gilhen,New York Rangers,4,3,14,45,44,0,0,14,6.7,1,0,1,2,-14,7
+8447364,Adam Graves,New York Rangers,29,36,148,275,84,12,14,148,13.1,6,0,1,3,-4,65
+8447569,Mark Hardy,New York Rangers,13,1,89,48,55,0,1,89,2.1,0,0,0,0,-2,14
+8447673,Mike Hartman,New York Rangers,4,4,160,77,61,0,0,160,5.2,0,0,0,0,-7,8
+8448487,Kris King,New York Rangers,11,8,203,74,78,0,0,203,10.8,1,0,0,0,4,19
+8448519,Joey Kocur,New York Rangers,6,3,131,43,65,2,3,131,7.0,0,0,0,0,-9,9
+8448769,Brian Leetch,New York Rangers,30,6,26,150,36,2,24,26,4.0,1,0,1,1,2,36
+8448884,Kevin Lowe,New York Rangers,12,3,58,52,49,0,0,58,5.8,0,0,0,2,-2,15
+8449136,Dave Marcinyshyn,New York Rangers,0,0,2,1,2,0,0,2,0.0,0,0,0,0,-1,0
+8449439,John McIntyre,New York Rangers,5,3,84,36,60,0,0,84,8.3,0,0,0,1,-14,8
+8449573,Mark Messier,New York Rangers,66,25,72,215,75,7,30,72,11.6,2,0,2,4,-6,91
+8449973,Eddie Olczyk,New York Rangers,28,21,52,190,71,2,14,52,11.1,1,0,0,0,-2,49
+8450223,James Patrick,New York Rangers,21,5,61,99,60,3,15,61,5.1,0,0,0,0,1,26
+8451905,Esa Tikkanen,New York Rangers,24,16,94,202,81,2,7,94,7.9,3,0,4,5,-24,40
+8451994,Darren Turcotte,New York Rangers,28,25,40,213,71,7,21,40,11.7,3,1,3,3,-3,53
+8452366,Jay Wells,New York Rangers,9,1,107,32,53,0,0,107,3.1,0,0,0,0,-2,10
+8455429,Tony Amonte,New York Rangers,43,33,49,270,83,13,24,49,12.2,4,0,0,0,0,76
+8455441,Peter Andersson,New York Rangers,11,4,18,68,31,3,9,18,5.9,1,0,0,0,4,15
+8456669,Mike Hurlbut,New York Rangers,8,1,16,26,23,1,4,16,3.8,0,0,0,0,4,9
+8457372,Joby Messier,New York Rangers,0,0,6,11,11,0,0,6,0.0,0,0,0,0,0,0
+8457491,Sergei Nemchinov,New York Rangers,31,23,34,144,81,0,2,34,16.0,3,0,1,2,15,54
+8458361,Doug Weight,New York Rangers,31,17,65,125,78,3,14,65,13.6,1,0,0,0,2,48
+8458494,Sergei Zubov,New York Rangers,23,8,4,93,49,3,12,4,8.6,0,0,0,0,-1,31
+8458529,Alex Kovalev,New York Rangers,18,20,79,134,65,3,8,79,14.9,3,0,0,0,-10,38
+8458775,Steven King,New York Rangers,5,7,16,42,24,5,7,16,16.7,2,0,0,0,4,12
+8444897,Keith Acton,Philadelphia Flyers,15,8,51,74,83,0,0,51,10.8,0,0,0,1,-10,23
+8445283,Len Barrie,Philadelphia Flyers,2,2,9,14,8,0,0,9,14.3,0,0,0,0,2,4
+8445419,Brian Benning,Philadelphia Flyers,24,10,152,115,55,6,20,152,8.7,0,0,0,1,-1,34
+8445712,Dave Brown,Philadelphia Flyers,2,0,78,19,70,0,0,78,0.0,0,0,0,0,-5,2
+8445735,Rod Brind'Amour,Philadelphia Flyers,49,37,89,206,81,13,30,89,18.0,4,0,4,6,-8,86
+8445920,Terry Carkner,Philadelphia Flyers,16,3,150,45,83,0,2,150,6.7,0,0,0,0,18,19
+8446243,Shawn Cronin,Philadelphia Flyers,1,2,37,12,35,0,0,37,16.7,0,0,0,0,0,3
+8446423,Kevin Dineen,Philadelphia Flyers,28,35,201,241,83,6,12,201,14.5,7,1,3,7,14,63
+8446618,Pelle Eklund,Philadelphia Flyers,38,11,16,82,55,4,11,16,13.4,0,0,0,2,12,49
+8446735,Doug Evans,Philadelphia Flyers,13,8,70,60,65,0,0,70,13.3,1,0,0,1,-9,21
+8446791,Brent Fedyk,Philadelphia Flyers,38,21,48,167,74,4,13,48,12.6,2,0,1,2,14,59
+8447004,Garry Galley,Philadelphia Flyers,49,13,115,231,83,4,25,115,5.6,3,0,1,4,18,62
+8447690,Greg Hawgood,Philadelphia Flyers,35,11,74,138,69,7,24,74,8.0,1,0,0,0,-8,46
+8448411,Steve Kasper,Philadelphia Flyers,7,4,20,32,68,0,0,20,12.5,0,0,1,1,-17,11
+8449453,Ryan McGill,Philadelphia Flyers,10,3,238,68,72,0,0,238,4.4,0,0,0,1,9,13
+8449797,Ric Nattress,Philadelphia Flyers,10,7,29,57,44,0,0,29,12.3,4,1,0,0,1,17
+8450200,Greg Paslawski,Philadelphia Flyers,24,18,12,109,73,4,11,12,16.5,1,0,0,0,3,42
+8450269,Mark Pederson,Philadelphia Flyers,7,10,28,63,41,2,5,28,15.9,0,0,0,0,-22,17
+8450725,Mark Recchi,Philadelphia Flyers,70,53,95,274,84,15,42,95,19.3,6,0,4,5,1,123
+8451596,Dave Snuggerud,Philadelphia Flyers,7,4,14,61,39,0,0,14,6.6,1,0,1,1,-3,11
+8455575,Josef Beranek,Philadelphia Flyers,18,15,78,130,66,1,5,78,11.5,0,0,0,0,-8,33
+8455646,Claude Boivin,Philadelphia Flyers,4,5,76,21,30,0,0,76,23.8,1,1,0,0,-5,9
+8455752,Viacheslav Butsayev,Philadelphia Flyers,14,2,61,58,52,0,0,61,3.4,0,0,0,0,3,16
+8455920,John Conroy,Philadelphia Flyers,2,3,17,24,21,0,0,17,12.5,1,0,0,0,-1,5
+8456227,Andre Faust,Philadelphia Flyers,2,2,4,11,10,0,0,4,18.2,0,0,0,0,5,4
+8456683,Gord Hynes,Philadelphia Flyers,4,3,16,39,37,0,1,16,7.7,0,0,0,0,-3,7
+8457451,Glenn Mulvenna,Philadelphia Flyers,0,0,2,1,1,0,0,2,0.0,0,0,0,0,0,0
+8458515,Eric Lindros,Philadelphia Flyers,34,41,147,180,61,8,18,147,22.8,5,0,1,1,28,75
+8458636,Dmitry Yushkevich,Philadelphia Flyers,27,5,71,155,82,1,2,71,3.2,1,1,0,0,12,32
+8458652,Andrei Lomakin,Philadelphia Flyers,12,8,34,64,51,0,2,34,12.5,0,0,0,0,15,20
+8458952,Jason Bowen,Philadelphia Flyers,0,1,2,3,7,0,0,2,33.3,0,0,0,0,1,1
+8446013,Jay Caufield,Pittsburgh Penguins,0,0,60,6,26,0,0,60,0.0,0,0,0,0,-1,0
+8446050,Jeff Chychrun,Pittsburgh Penguins,1,0,25,3,18,0,0,25,0.0,0,0,0,0,-2,1
+8446305,Jeff Daniels,Pittsburgh Penguins,4,5,14,30,58,0,0,14,16.7,1,0,0,0,-5,9
+8446715,Bob Errey,Pittsburgh Penguins,9,9,80,88,62,0,0,80,10.2,2,0,0,0,0,18
+8446873,Bryan Fogarty,Pittsburgh Penguins,4,0,4,11,12,0,2,4,0.0,0,0,0,0,-3,4
+8446951,Ron Francis,Pittsburgh Penguins,76,24,68,215,84,9,50,68,11.2,4,0,2,9,6,100
+8448208,Jaromir Jagr,Pittsburgh Penguins,60,34,61,242,81,10,22,61,14.0,9,2,1,1,30,94
+8448271,Grant Jennings,Pittsburgh Penguins,5,0,65,32,58,0,0,65,0.0,0,0,0,0,6,5
+8448771,Jamie Leach,Pittsburgh Penguins,2,3,4,19,24,0,0,4,15.8,0,0,0,0,-7,5
+8448782,Mario Lemieux,Pittsburgh Penguins,91,69,38,286,60,16,55,38,24.1,10,0,6,9,55,160
+8448841,Troy Loney,Pittsburgh Penguins,16,5,99,83,82,0,2,99,6.0,1,0,0,0,1,21
+8449743,Joe Mullen,Pittsburgh Penguins,37,33,14,175,72,9,18,14,18.9,3,0,3,4,19,70
+8449745,Larry Murphy,Pittsburgh Penguins,63,22,73,230,83,6,42,73,9.6,2,0,2,2,45,85
+8450089,Jim Paek,Pittsburgh Penguins,15,3,64,57,77,0,0,64,5.3,0,0,0,2,13,18
+8450645,Mike Ramsey,Pittsburgh Penguins,10,3,28,35,45,0,0,28,8.6,0,0,0,0,17,13
+8451105,Kjell Samuelsson,Pittsburgh Penguins,6,3,106,63,63,0,1,106,4.8,1,0,0,1,25,9
+8451107,Ulf Samuelsson,Pittsburgh Penguins,26,3,249,96,77,0,7,249,3.1,1,1,0,2,36,29
+8451657,Paul Stanton,Pittsburgh Penguins,12,4,97,106,77,2,5,97,3.8,1,0,0,0,7,16
+8451673,Mike Stapleton,Pittsburgh Penguins,9,4,10,78,78,0,3,10,5.1,1,0,1,1,-8,13
+8451711,Kevin Stevens,Pittsburgh Penguins,56,55,177,326,72,26,44,177,16.9,5,0,0,0,17,111
+8451836,Peter Taglianetti,Pittsburgh Penguins,12,2,184,78,72,0,0,184,2.6,0,0,0,3,12,14
+8451911,Dave Tippett,Pittsburgh Penguins,19,6,56,64,74,0,0,56,9.4,1,0,1,3,5,25
+8451925,Rick Tocchet,Pittsburgh Penguins,61,48,252,240,80,20,40,252,20.0,5,0,4,4,28,109
+8457297,Shawn McEachern,Pittsburgh Penguins,33,28,46,196,84,7,14,46,14.3,6,0,0,1,21,61
+8457481,Michael Needham,Pittsburgh Penguins,5,8,14,49,56,0,1,14,16.3,2,0,0,0,-1,13
+8458507,Peter Ahola,Pittsburgh Penguins,5,3,36,40,50,0,2,36,7.5,0,0,0,0,-10,8
+8458955,Martin Straka,Pittsburgh Penguins,13,3,29,28,42,0,2,29,10.7,1,0,0,0,2,16
+8445118,Brent Ashton,Boston Bruins,13,10,52,84,58,0,2,52,11.9,1,0,2,3,11,23
+8445621,Ray Bourque,Boston Bruins,63,19,40,330,78,8,41,40,5.8,7,1,0,5,38,82
+8446468,Peter Douris,Boston Bruins,4,4,4,33,19,0,0,4,12.1,0,0,1,1,5,8
+8446778,Glen Featherstone,Boston Bruins,5,5,102,33,34,1,2,102,15.2,0,0,0,0,6,10
+8448053,Brent Hughes,Boston Bruins,4,5,191,54,62,0,0,191,9.3,0,0,0,0,-4,9
+8448483,Darin Kimble,Boston Bruins,3,7,177,20,55,0,0,177,35.0,0,0,0,0,4,10
+8448717,Dominic Lavoie,Boston Bruins,1,0,2,15,4,0,1,2,0.0,0,0,0,0,-1,1
+8448764,Stephen Leach,Boston Bruins,25,26,126,256,79,9,17,126,10.2,4,0,0,0,-6,51
+8449754,Gord Murphy,Boston Bruins,12,5,62,68,49,3,7,62,7.4,2,0,0,0,-13,17
+8449812,Cam Neely,Boston Bruins,7,11,25,45,13,6,7,25,24.4,1,0,0,0,4,18
+8449951,Adam Oates,Boston Bruins,97,45,32,254,84,24,62,32,17.7,11,0,1,2,15,142
+8450512,Dave Poulin,Boston Bruins,33,16,62,112,84,0,2,62,14.3,0,0,5,9,29,49
+8450773,Dave Reid,Boston Bruins,16,20,10,116,65,1,2,10,17.2,2,0,5,8,12,36
+8450905,Gordie Roberts,Boston Bruins,12,5,105,40,65,0,3,105,12.5,1,0,0,0,23,17
+8451083,Vladimir Ruzicka,Boston Bruins,22,19,38,146,60,7,13,38,13.0,2,1,0,0,-6,41
+8451314,David Shaw,Boston Bruins,14,10,108,122,77,1,5,108,8.2,1,0,1,2,10,24
+8451819,Don Sweeney,Boston Bruins,27,7,68,107,84,0,0,68,6.5,0,0,1,1,34,34
+8451827,Tim Sweeney,Boston Bruins,7,1,6,15,14,0,0,6,6.7,0,0,0,0,1,8
+8452371,Glen Wesley,Boston Bruins,25,8,47,183,64,4,20,47,4.4,0,0,1,2,-2,33
+8452449,Jim Wiemer,Boston Bruins,6,1,48,39,28,0,1,48,2.6,0,0,0,0,1,7
+8455506,Darren Banks,Boston Bruins,1,2,64,15,16,0,0,64,13.3,0,0,0,0,5,3
+8456087,Ted Donato,Boston Bruins,20,15,61,118,82,3,14,61,12.7,5,1,2,2,2,35
+8456556,Steve Heinze,Boston Bruins,13,18,24,146,73,0,0,24,12.3,4,0,2,4,20,31
+8456647,William Huard,Boston Bruins,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+8456760,Joe Juneau,Boston Bruins,70,32,33,229,84,9,37,33,14.0,3,1,0,0,23,102
+8457318,Andrew McKim,Boston Bruins,3,1,0,12,7,0,1,0,8.3,0,0,0,0,2,4
+8457803,Stephane Richer,Boston Bruins,4,1,18,24,24,0,0,18,4.2,1,0,0,0,-9,5
+8458069,Bryan Smolinski,Boston Bruins,3,1,0,10,9,0,0,0,10.0,0,0,0,0,3,4
+8458434,Chris Winnes,Boston Bruins,1,0,0,2,5,0,0,0,0.0,0,0,0,0,1,1
+8458469,C.J. Young,Boston Bruins,7,7,32,43,43,1,1,32,16.3,1,0,0,0,-6,14
+8458532,Glen Murray,Boston Bruins,4,3,8,28,27,2,2,8,10.7,1,0,0,0,-6,7
+8458554,Jozef Stumpel,Boston Bruins,3,1,4,8,13,0,0,4,12.5,0,0,0,0,-3,4
+8458909,Dimitri Kvartalnov,Boston Bruins,42,30,16,226,73,11,29,16,13.3,4,0,0,0,9,72
+8458991,Sergei Zholtok,Boston Bruins,1,0,0,2,1,0,0,0,0.0,0,0,0,0,1,1
+8459072,Grigori Panteleev,Boston Bruins,6,8,12,45,39,2,3,12,17.8,1,1,0,0,-6,14
+8459192,Denis Chervyakov,Boston Bruins,0,0,2,2,2,0,0,2,0.0,0,0,0,0,-1,0
+8445000,Dave Andreychuk,Buffalo Sabres,45,54,56,310,83,32,54,56,17.4,4,0,0,0,4,99
+8445176,Donald Audette,Buffalo Sabres,7,12,51,92,44,2,2,51,13.0,0,0,0,0,-8,19
+8445568,Doug Bodger,Buffalo Sabres,45,9,87,154,81,6,26,87,5.8,0,0,0,1,14,54
+8445655,Greg Brown,Buffalo Sabres,1,0,6,10,10,0,0,6,0.0,0,0,0,0,-5,1
+8446165,Bob Corkum,Buffalo Sabres,4,6,38,69,68,0,0,38,8.7,1,0,1,2,-3,10
+8446437,Gord Donnelly,Buffalo Sabres,8,3,221,38,60,0,0,221,7.9,0,0,0,1,5,11
+8446715,Bob Errey,Buffalo Sabres,9,9,80,88,62,0,0,80,10.2,2,0,0,0,0,18
+8447515,Dave Hannan,Buffalo Sabres,15,5,43,43,55,0,2,43,11.6,0,0,0,1,8,20
+8447685,Dale Hawerchuk,Buffalo Sabres,80,16,52,259,81,8,52,52,6.2,2,0,0,0,-17,96
+8447979,Bill Houlder,Buffalo Sabres,5,3,6,29,15,0,0,6,10.3,0,0,0,0,5,8
+8448626,Pat LaFontaine,Buffalo Sabres,95,53,63,306,84,20,63,63,17.3,7,0,2,2,11,148
+8448740,Grant Ledyard,Buffalo Sabres,14,2,45,79,50,1,3,45,2.5,0,0,0,0,-2,16
+8449654,Alexander Mogilny,Buffalo Sabres,51,76,40,360,77,27,48,40,21.1,11,0,0,1,7,127
+8449662,Randy Moller,Buffalo Sabres,7,2,83,25,35,0,0,83,8.0,0,0,0,1,6,9
+8450234,Colin Patterson,Buffalo Sabres,2,4,22,30,36,0,0,22,13.3,0,0,1,1,-2,6
+8450523,Wayne Presley,Buffalo Sabres,17,15,96,97,79,0,2,96,15.5,2,0,1,4,5,32
+8450645,Mike Ramsey,Buffalo Sabres,10,3,28,35,45,0,0,28,8.6,0,0,0,0,17,13
+8450678,Rob Ray,Buffalo Sabres,2,3,211,28,68,1,1,211,10.7,0,0,0,0,-3,5
+8451789,Petr Svoboda,Buffalo Sabres,24,2,59,61,40,1,15,59,3.3,1,0,0,1,3,26
+8451805,Ken Sutton,Buffalo Sabres,14,8,30,77,63,1,1,30,10.4,2,0,0,0,-3,22
+8451820,Bob Sweeney,Buffalo Sabres,26,21,118,120,80,4,9,118,17.5,3,2,3,4,2,47
+8452501,Randy Wood,Buffalo Sabres,25,18,77,176,82,3,5,77,10.2,2,0,2,4,6,43
+8455805,Keith Carney,Buffalo Sabres,4,2,55,26,30,0,1,55,7.7,1,0,0,0,3,6
+8455874,Peter Ciavaglia,Buffalo Sabres,0,0,0,2,3,0,0,0,0.0,0,0,0,0,0,0
+8456401,Viktor Gordiouk,Buffalo Sabres,6,3,0,24,16,0,0,0,12.5,0,0,0,0,4,9
+8457134,Doug Macdonald,Buffalo Sabres,0,1,2,1,5,0,0,2,100.0,0,0,0,0,0,1
+8457261,Brad May,Buffalo Sabres,13,13,242,114,82,0,1,242,11.4,1,1,0,0,3,26
+8458058,Richard Smehlik,Buffalo Sabres,27,4,59,82,80,0,1,59,4.9,0,0,0,2,9,31
+8458208,John Thomas,Buffalo Sabres,1,1,15,4,7,0,0,15,25.0,0,0,0,0,2,2
+8458527,Philippe Boucher,Buffalo Sabres,4,0,14,28,18,0,1,14,0.0,0,0,0,0,1,4
+8459019,Matthew Barnaby,Buffalo Sabres,0,1,10,8,2,1,1,10,12.5,0,0,0,0,0,1
+8459044,Yuri Khmylev,Buffalo Sabres,19,20,28,122,68,0,5,28,16.4,3,1,3,4,6,39
+8445417,Brian Bellows,Montréal Canadiens,48,40,44,260,82,16,35,44,15.4,5,1,0,0,4,88
+8445734,Benoit Brunet,Montréal Canadiens,15,10,19,71,47,0,1,19,14.1,1,0,0,0,13,25
+8445739,Patrice Brisebois,Montréal Canadiens,21,10,79,123,70,4,12,79,8.1,2,0,0,0,6,31
+8446036,Guy Carbonneau,Montréal Canadiens,13,4,20,73,61,0,0,20,5.5,0,0,1,3,-9,17
+8446286,Jean-Jacques Daigneault,Montréal Canadiens,10,8,57,68,66,0,3,57,11.8,1,0,0,0,25,18
+8446303,Vincent Damphousse,Montréal Canadiens,58,39,98,287,84,9,33,98,13.6,8,2,3,3,5,97
+8446407,Eric Desjardins,Montréal Canadiens,32,13,98,163,82,7,20,98,8.0,1,0,0,2,20,45
+8446415,Gilbert Dionne,Montréal Canadiens,28,20,63,145,75,6,16,63,13.8,2,0,1,1,5,48
+8446501,Donald Dufresne,Montréal Canadiens,2,1,32,13,32,0,0,32,7.7,0,0,0,0,0,3
+8446733,Todd Ewen,Montréal Canadiens,9,5,193,59,75,0,0,193,8.5,1,0,0,0,6,14
+8447477,Kevin Haller,Montréal Canadiens,14,11,117,126,73,6,14,117,8.7,1,0,0,0,7,25
+8448415,Mike Keane,Montréal Canadiens,45,15,95,120,77,0,2,95,12.5,1,0,0,1,29,60
+8448622,John LeClair,Montréal Canadiens,25,19,33,139,72,2,3,33,13.7,2,0,0,0,11,44
+8448719,Stephan Lebeau,Montréal Canadiens,49,31,20,150,71,8,19,20,20.7,7,0,0,0,23,80
+8448754,Gary Leeman,Montréal Canadiens,17,15,24,85,50,1,5,24,17.6,3,0,0,0,14,32
+8449740,Kirk Muller,Montréal Canadiens,57,37,77,231,80,12,33,77,16.0,4,0,0,1,8,94
+8449957,Lyle Odelein,Montréal Canadiens,14,2,205,79,83,0,0,205,2.5,0,0,0,0,35,16
+8450642,Rob Ramage,Montréal Canadiens,13,5,146,131,74,5,13,146,3.8,0,0,0,0,-24,18
+8450890,Mario Roberge,Montréal Canadiens,4,4,142,23,50,0,0,142,17.4,3,0,0,0,2,8
+8451146,Denis Savard,Montréal Canadiens,34,16,90,99,63,4,15,90,16.2,2,0,1,4,1,50
+8451224,Mathieu Schneider,Montréal Canadiens,31,13,91,169,60,3,16,91,7.7,2,0,0,0,8,44
+8451427,Brian Skrudland,Montréal Canadiens,7,7,65,51,39,0,0,65,13.7,1,0,2,3,4,14
+8455564,Jesse Belanger,Montréal Canadiens,2,4,4,24,19,0,0,4,16.7,0,0,0,0,1,6
+8455801,Patrik Carnback,Montréal Canadiens,0,0,2,4,6,0,0,2,0.0,0,0,0,0,-4,0
+8455843,Eric Charron,Montréal Canadiens,0,0,2,0,3,0,0,2,0.0,0,0,0,0,0,0
+8456080,Paul Di Pietro,Montréal Canadiens,13,4,14,43,29,0,3,14,9.3,0,0,0,0,11,17
+8456595,Sean Hill,Montréal Canadiens,6,2,54,37,31,1,3,54,5.4,1,0,0,0,-5,8
+8456848,Patric Kjellberg,Montréal Canadiens,0,0,2,7,7,0,0,2,0.0,0,0,0,0,-3,0
+8457849,Edward Ronan,Montréal Canadiens,7,5,20,54,53,0,0,20,9.3,1,1,0,0,6,12
+8458125,Turner Stevenson,Montréal Canadiens,0,0,0,1,1,0,0,0,0.0,0,0,0,0,-1,0
+8458641,Oleg Petrov,Montréal Canadiens,1,2,10,20,9,0,0,10,10.0,1,1,0,0,2,3
+8445053,Dave Archibald,Ottawa Senators,6,9,32,93,44,6,6,32,9.7,0,0,0,0,-16,15
+8445202,Jamie Baker,Ottawa Senators,29,19,54,160,76,10,24,54,11.9,2,0,0,0,-20,48
+8445603,Laurie Boschman,Ottawa Senators,7,9,101,84,70,0,0,101,10.7,1,0,1,1,-26,16
+8445657,Neil Brady,Ottawa Senators,17,7,57,68,55,5,11,57,10.3,0,0,0,0,-25,24
+8446424,Gord Dineen,Ottawa Senators,4,2,30,36,32,1,3,30,5.6,0,0,0,0,-19,6
+8446935,Marc Fortier,Ottawa Senators,1,0,11,14,16,0,0,11,0.0,0,0,0,0,-9,1
+8446970,Mark Freer,Ottawa Senators,14,10,39,80,63,3,10,39,12.5,0,0,3,3,-35,24
+8447489,Ken Hammond,Ottawa Senators,4,4,104,64,62,0,2,104,6.3,0,0,0,0,-42,8
+8448092,Jody Hull,Ottawa Senators,21,13,14,134,69,5,13,14,9.7,0,0,1,1,-24,34
+8448553,Bob Kudelski,Ottawa Senators,17,24,30,137,63,12,17,30,17.5,3,0,0,0,-25,41
+8448577,Jim Kyte,Ottawa Senators,1,0,4,1,4,0,0,4,0.0,0,0,0,0,0,1
+8448641,Mark Lamb,Ottawa Senators,19,7,64,123,71,1,3,64,5.7,0,0,0,0,-40,26
+8448675,Chris Luongo,Ottawa Senators,9,3,68,76,76,1,4,68,3.9,0,0,0,0,-47,12
+8448676,Jeffrey Lazaro,Ottawa Senators,4,6,16,38,26,0,1,16,15.8,0,0,1,2,-8,10
+8448717,Dominic Lavoie,Ottawa Senators,1,0,2,15,4,0,1,2,0.0,0,0,0,0,-1,1
+8448793,Darcy Loewen,Ottawa Senators,5,4,145,42,79,0,0,145,9.5,0,0,0,1,-26,9
+8448961,Norm MacIver,Ottawa Senators,46,17,84,184,80,7,35,84,9.2,2,0,1,1,-46,63
+8449175,Brad Marsh,Ottawa Senators,3,0,30,35,59,0,0,30,0.0,0,0,0,0,-29,3
+8449326,Andrew McBain,Ottawa Senators,16,7,43,71,59,1,4,43,9.9,0,0,0,0,-37,23
+8449608,Brad Miller,Ottawa Senators,0,0,42,2,11,0,0,42,0.0,0,0,0,0,-5,0
+8449755,Robert Murphy,Ottawa Senators,7,3,30,55,44,0,0,30,5.5,0,0,0,0,-23,10
+8450260,Kent Paynter,Ottawa Senators,0,0,20,3,6,0,0,20,0.0,0,0,0,0,-7,0
+8450293,Mike Peluso,Ottawa Senators,10,15,318,93,81,2,3,318,16.1,1,0,0,0,-35,25
+8451059,Darren Rumble,Ottawa Senators,13,3,61,92,69,0,3,61,3.3,0,0,0,0,-24,16
+8451305,Brad Shaw,Ottawa Senators,34,7,34,166,81,4,26,34,4.2,0,0,0,1,-47,41
+8451567,Doug Smail,Ottawa Senators,10,4,51,73,51,0,0,51,5.5,0,0,0,2,-34,14
+8451914,Jim Thomson,Ottawa Senators,1,0,97,23,24,0,0,97,0.0,0,0,0,0,-12,1
+8451988,Sylvain Turgeon,Ottawa Senators,18,25,104,249,72,8,17,104,10.0,2,0,0,0,-29,43
+8455479,Blair Atcheynum,Ottawa Senators,1,0,0,2,4,0,0,0,0.0,0,0,0,0,-3,1
+8457083,Lonnie Loach,Ottawa Senators,13,10,27,58,53,1,4,27,17.2,0,0,0,0,3,23
+8457589,Mark Osiecki,Ottawa Senators,4,1,19,26,43,1,1,19,3.8,0,0,0,0,-20,5
+8458095,Martin St. Amour,Ottawa Senators,0,0,2,2,1,0,0,2,0.0,0,0,0,0,0,0
+8459009,Radek Hamr,Ottawa Senators,0,0,0,2,4,0,0,0,0.0,0,0,0,0,-4,0
+8459178,Tomas Jelinek,Ottawa Senators,6,7,52,60,49,0,3,52,11.7,0,0,0,0,-21,13
+8459349,Tony Cimellaro,Ottawa Senators,0,0,0,4,2,0,0,0,0.0,0,0,0,0,-2,0
+8444945,Glenn Anderson,Toronto Maple Leafs,43,22,117,161,76,11,29,117,13.7,3,0,0,0,19,65
+8445000,Dave Andreychuk,Toronto Maple Leafs,45,54,56,310,83,32,54,56,17.4,4,0,0,0,4,99
+8445323,Ken Baumgartner,Toronto Maple Leafs,0,1,155,23,63,0,0,155,4.3,0,0,0,0,-11,1
+8445413,Drake Berehowsky,Toronto Maple Leafs,15,4,61,41,41,1,9,61,9.8,1,0,0,0,1,19
+8445424,Bill Berg,Toronto Maple Leafs,11,13,103,113,80,0,0,103,11.5,2,0,3,3,3,24
+8446085,Wendel Clark,Toronto Maple Leafs,22,17,193,146,66,2,9,193,11.6,5,0,0,0,2,39
+8446251,John Cullen,Toronto Maple Leafs,32,18,111,124,66,13,30,111,14.5,1,0,0,0,-23,50
+8446626,Dave Ellett,Toronto Maple Leafs,34,6,46,186,70,4,29,46,3.2,1,0,0,0,19,40
+8446876,Mike Foligno,Toronto Maple Leafs,5,13,84,95,55,5,6,84,13.7,2,0,0,0,2,18
+8447187,Todd Gill,Toronto Maple Leafs,32,11,66,113,69,5,23,66,9.7,2,0,0,0,4,43
+8447206,Doug Gilmour,Toronto Maple Leafs,95,32,100,211,83,15,59,100,15.2,2,0,3,5,32,127
+8448566,Mike Krushelnyski,Toronto Maple Leafs,20,19,62,130,84,6,11,62,14.6,3,0,2,3,3,39
+8448678,Guy Larose,Toronto Maple Leafs,0,0,8,8,9,0,0,8,0.0,0,0,0,0,-3,0
+8448770,Sylvain Lefebvre,Toronto Maple Leafs,12,2,90,81,81,0,1,90,2.5,0,0,0,0,8,14
+8449009,Jamie Macoun,Toronto Maple Leafs,15,4,55,114,77,2,5,55,3.5,1,0,0,0,3,19
+8449442,Bob McGill,Toronto Maple Leafs,0,1,34,8,19,0,0,34,12.5,0,0,0,0,5,1
+8449463,Ken McRae,Toronto Maple Leafs,0,0,2,3,2,0,0,2,0.0,0,0,0,0,-1,0
+8449488,Dave McLlwain,Toronto Maple Leafs,4,14,30,85,66,1,1,30,16.5,3,0,1,2,-18,18
+8450073,Mark Osborne,Toronto Maple Leafs,14,12,89,110,76,0,1,89,10.9,2,0,2,3,-7,26
+8451022,Bob Rouse,Toronto Maple Leafs,11,3,130,78,82,0,1,130,3.8,1,0,1,2,7,14
+8451093,Joe Sacco,Toronto Maple Leafs,4,4,8,38,23,0,1,8,10.5,0,0,0,0,-4,8
+8451333,Darryl Shannon,Toronto Maple Leafs,0,0,11,10,16,0,0,11,0.0,0,0,0,0,-5,0
+8452685,Peter Zezel,Toronto Maple Leafs,23,12,24,102,70,0,3,24,11.8,4,1,0,0,0,35
+8456156,Mike Eastwood,Toronto Maple Leafs,6,1,21,11,12,0,1,21,9.1,0,0,0,0,-2,7
+8457203,Kent Manderville,Toronto Maple Leafs,1,1,17,15,18,0,0,17,6.7,1,0,0,0,-9,2
+8457640,Robert Pearson,Toronto Maple Leafs,14,23,211,164,78,8,11,211,14.0,3,0,0,0,-2,37
+8458234,David Tomlinson,Toronto Maple Leafs,0,0,2,1,3,0,0,2,0.0,0,0,0,0,0,0
+8458672,Dmitri Mironov,Toronto Maple Leafs,24,7,40,105,59,4,14,40,6.7,1,0,0,0,-1,31
+8459013,Nikolai Borschevsky,Toronto Maple Leafs,40,34,28,204,78,12,30,28,16.7,4,0,0,0,33,74
+8444963,Mikael Andersson,Tampa Bay Lightning,11,16,14,169,77,3,4,14,9.5,4,1,2,4,-14,27
+8445385,Bob Beers,Tampa Bay Lightning,24,12,70,138,64,7,23,70,8.7,0,0,0,1,-25,36
+8445428,Marc Bergevin,Tampa Bay Lightning,12,2,66,69,78,0,0,66,2.9,0,0,0,0,-16,14
+8445437,Timothy Bergland,Tampa Bay Lightning,3,3,11,44,27,0,0,11,6.8,0,0,0,0,-5,6
+8445672,Brian Bradley,Tampa Bay Lightning,44,42,92,205,80,16,35,92,20.5,6,0,0,1,-24,86
+8445775,Marc Bureau,Tampa Bay Lightning,21,10,111,132,63,1,6,111,7.6,1,0,2,3,-12,31
+8445861,Jock Callander,Tampa Bay Lightning,1,1,2,12,8,0,0,2,8.3,0,0,0,0,-5,2
+8445918,Dave Capuano,Tampa Bay Lightning,1,1,2,10,6,1,2,2,10.0,0,0,0,0,-4,2
+8446042,Shawn Chambers,Tampa Bay Lightning,29,10,36,152,55,5,23,36,6.6,1,0,0,1,-21,39
+8446127,Danton Cole,Tampa Bay Lightning,15,12,23,100,67,0,0,23,12.0,1,0,1,1,-2,27
+8446177,Alain Cote,Tampa Bay Lightning,0,0,0,1,2,0,0,0,0.0,0,0,0,0,-1,0
+8446226,Adam Creighton,Tampa Bay Lightning,20,19,110,168,83,7,10,110,11.3,0,0,1,2,-19,39
+8446238,Doug Crossman,Tampa Bay Lightning,28,10,28,78,59,4,22,28,12.8,1,1,0,1,-7,38
+8446408,Rob DiMaio,Tampa Bay Lightning,15,9,62,75,54,2,3,62,12.0,0,0,0,0,0,24
+8447180,Randy Gilhen,Tampa Bay Lightning,4,3,14,45,44,0,0,14,6.7,1,0,1,2,-14,7
+8447673,Mike Hartman,Tampa Bay Lightning,4,4,160,77,61,0,0,160,5.2,0,0,0,0,-7,8
+8447756,Matthew Block,Tampa Bay Lightning,4,0,38,18,17,0,1,38,0.0,0,0,0,0,-6,4
+8447891,Ken Hodge Jr.,Tampa Bay Lightning,7,2,2,32,25,0,3,2,6.3,1,0,0,0,-6,9
+8448411,Steve Kasper,Tampa Bay Lightning,7,4,20,32,68,0,0,20,12.5,0,0,1,1,-17,11
+8448520,Chris Kontos,Tampa Bay Lightning,24,27,12,136,66,12,20,12,19.9,3,0,1,1,-7,51
+8448627,Jason Lafreniere,Tampa Bay Lightning,3,3,4,17,11,1,3,4,17.6,0,0,0,0,-6,6
+8449093,Steve Maltais,Tampa Bay Lightning,13,7,35,96,63,4,9,35,7.3,1,0,0,0,-20,20
+8449498,Basil McRae,Tampa Bay Lightning,6,3,169,45,47,2,2,169,6.7,0,0,0,0,-16,9
+8449677,Michel Mongeau,Tampa Bay Lightning,1,1,2,2,4,0,1,2,50.0,0,0,0,0,-2,2
+8450071,Keith Osborne,Tampa Bay Lightning,1,1,8,11,11,0,0,8,9.1,1,0,0,0,-1,2
+8450642,Rob Ramage,Tampa Bay Lightning,13,5,146,131,74,5,13,146,3.8,0,0,0,0,-24,18
+8450650,Herb Raglan,Tampa Bay Lightning,0,0,2,0,2,0,0,2,0.0,0,0,0,0,0,0
+8450742,Joe Reekie,Tampa Bay Lightning,11,2,69,53,42,0,2,69,3.8,0,0,0,0,2,13
+8451291,Anatoli Semenov,Tampa Bay Lightning,37,12,32,102,75,3,9,32,11.8,1,0,2,5,16,49
+8451381,Martin Simard,Tampa Bay Lightning,0,0,11,1,7,0,0,11,0.0,0,0,0,0,-1,0
+8451718,Shayne Stevenson,Tampa Bay Lightning,1,0,7,4,8,0,0,7,0.0,0,0,0,0,-5,1
+8451836,Peter Taglianetti,Tampa Bay Lightning,12,2,184,78,72,0,0,184,2.6,0,0,0,3,12,14
+8451987,John Tucker,Tampa Bay Lightning,39,17,69,179,78,5,18,69,9.5,1,1,1,1,-12,56
+8456117,Stan Drulia,Tampa Bay Lightning,1,2,10,22,24,0,0,10,9.1,1,0,0,0,1,3
+8457803,Stephane Richer,Tampa Bay Lightning,4,1,18,24,24,0,0,18,4.2,1,0,0,0,-9,5
+8457883,Jason Ruff,Tampa Bay Lightning,1,2,8,8,8,1,1,8,25.0,1,0,0,0,-1,3
+8458477,Rob Zamuner,Tampa Bay Lightning,28,15,74,183,84,1,12,74,8.2,0,0,0,0,-25,43
+8458825,Shawn Rivers,Tampa Bay Lightning,2,0,2,3,4,0,0,2,0.0,0,0,0,0,-2,2
+8458879,Chris Lipuma,Tampa Bay Lightning,5,0,34,17,15,0,0,34,0.0,0,0,0,0,1,5
+8458938,Roman Hamrlik,Tampa Bay Lightning,15,6,71,113,67,1,8,71,5.3,1,0,0,0,-21,21
+8444957,Shawn Anderson,Washington Capitals,6,2,18,42,60,1,3,18,4.8,0,0,0,0,-2,8
+8445201,Bob Babcock,Washington Capitals,0,0,2,0,1,0,0,2,0.0,0,0,0,0,0,0
+8445575,Peter Bondra,Washington Capitals,48,37,70,239,83,10,26,70,15.5,7,0,0,0,8,85
+8445790,Randy Burridge,Washington Capitals,0,0,0,7,4,0,0,0,0.0,0,0,0,0,1,0
+8445977,Bobby Carpenter,Washington Capitals,17,11,65,141,68,2,4,65,7.8,0,0,0,1,-16,28
+8446014,Paul Cavallini,Washington Capitals,12,6,56,99,82,1,2,56,6.1,0,0,0,0,6,18
+8446181,Sylvain Cote,Washington Capitals,29,21,34,206,77,8,17,34,10.2,3,0,2,3,28,50
+8446676,Pat Elynuik,Washington Capitals,35,22,66,121,80,8,18,66,18.2,1,0,0,1,3,57
+8447391,Jeff Greenlaw,Washington Capitals,1,1,18,15,16,0,0,18,6.7,0,0,0,0,-3,2
+8447680,Kevin Hatcher,Washington Capitals,45,34,114,329,83,13,33,114,10.3,6,0,1,1,-7,79
+8448106,Mark Hunter,Washington Capitals,0,0,14,5,7,0,0,14,0.0,0,0,0,0,1,0
+8448117,Dale Hunter,Washington Capitals,59,20,198,120,84,10,32,198,16.7,2,0,0,0,3,79
+8448124,Al Iafrate,Washington Capitals,41,25,169,289,81,11,30,169,8.7,4,0,1,2,15,66
+8448287,Calle Johansson,Washington Capitals,38,7,56,133,77,6,26,56,5.3,0,0,0,0,3,45
+8448484,Dmitri Khristich,Washington Capitals,35,31,28,127,64,9,18,28,24.4,1,0,1,2,29,66
+8448549,Todd Krygier,Washington Capitals,12,11,60,133,77,0,0,60,8.3,0,0,2,2,-13,23
+8448651,Rod Langway,Washington Capitals,0,0,20,6,21,0,0,20,0.0,0,0,0,0,-13,0
+8448919,Paul MacDermid,Washington Capitals,8,9,80,45,72,1,1,80,20.0,3,0,0,0,-13,17
+8449297,Alan May,Washington Capitals,10,6,268,75,83,0,0,268,8.0,1,0,0,0,1,16
+8449607,Kevin Miller,Washington Capitals,25,24,100,163,82,8,11,100,14.7,4,0,3,5,2,49
+8449621,Kelly Miller,Washington Capitals,27,18,32,144,84,3,4,32,12.5,3,0,0,3,-2,45
+8450408,Michal Pivonka,Washington Capitals,53,21,66,147,69,6,30,66,14.3,5,1,1,1,14,74
+8450832,Mike Ridley,Washington Capitals,56,26,44,148,84,6,30,44,17.6,3,1,2,4,5,82
+8451152,Reginald Savage,Washington Capitals,3,2,12,20,16,2,3,12,10.0,0,0,0,0,-4,5
+8456745,Keith Jones,Washington Capitals,14,12,124,73,71,0,3,124,16.4,3,0,0,0,18,26
+8457955,Brad Schlegel,Washington Capitals,1,0,6,8,7,0,0,6,0.0,0,0,0,0,1,1
+8458454,Jason Woolley,Washington Capitals,2,0,10,11,26,0,1,10,0.0,0,0,0,0,3,2
+8458572,Steve Konowalchuk,Washington Capitals,7,4,16,34,36,1,1,16,11.8,1,0,0,0,4,11
+8445689,Rob Brown,Chicago Blackhawks,6,1,33,16,15,0,1,33,6.3,0,0,0,0,6,7
+8445713,Keith Brown,Chicago Blackhawks,6,2,39,47,33,0,1,39,4.3,0,0,0,0,3,8
+8445796,Rod Buskas,Chicago Blackhawks,0,0,26,3,4,0,0,26,0.0,0,0,0,0,2,0
+8446053,Chris Chelios,Chicago Blackhawks,58,15,282,290,84,8,47,282,5.2,2,0,0,4,14,73
+8446079,Dave Christian,Chicago Blackhawks,14,4,12,75,60,1,3,12,5.3,1,0,0,1,6,18
+8447169,Greg Gilbert,Chicago Blackhawks,19,13,57,72,77,0,2,57,18.1,2,0,1,1,5,32
+8447310,Michel Goulet,Chicago Blackhawks,21,23,43,125,63,10,20,43,18.4,5,1,0,0,10,44
+8447345,Dirk Graham,Chicago Blackhawks,17,20,139,187,84,1,1,139,10.7,5,0,2,2,0,37
+8447386,Stu Grimson,Chicago Blackhawks,1,1,193,14,78,1,1,193,7.1,0,0,0,0,2,2
+8448046,Mike Hudson,Chicago Blackhawks,7,1,46,35,41,0,1,46,2.9,0,0,0,1,-7,8
+8448543,Frantisek Kucera,Chicago Blackhawks,14,5,59,117,71,1,7,59,4.3,1,0,0,0,7,19
+8448664,Brad Lauer,Chicago Blackhawks,1,0,2,8,7,0,1,2,0.0,0,0,0,0,-1,1
+8448703,Steve Larmer,Chicago Blackhawks,35,35,48,228,84,14,26,48,15.4,6,0,4,7,23,70
+8448781,Jocelyn Lemieux,Chicago Blackhawks,21,10,111,117,81,1,2,111,8.5,2,0,0,0,5,31
+8449137,Bryan Marchment,Chicago Blackhawks,15,5,313,75,78,1,3,313,6.7,1,0,0,0,15,20
+8449295,Stephane Matteau,Chicago Blackhawks,18,15,98,95,79,2,4,98,15.8,4,0,0,1,6,33
+8449749,Craig Muni,Chicago Blackhawks,11,0,75,60,81,0,0,75,0.0,0,0,0,4,-14,11
+8449751,Joe Murphy,Chicago Blackhawks,10,7,18,43,19,5,11,18,16.3,1,0,0,0,-3,17
+8449773,Troy Murray,Chicago Blackhawks,7,4,59,77,51,2,2,59,5.2,0,0,0,0,-15,11
+8449894,Brian Noonan,Chicago Blackhawks,14,16,82,129,63,5,9,82,12.4,3,0,0,0,3,30
+8450978,Jeremy Roenick,Chicago Blackhawks,57,50,86,255,84,22,51,86,19.6,3,0,3,3,15,107
+8451073,Cam Russell,Chicago Blackhawks,4,2,151,49,67,0,0,151,4.1,0,0,0,0,5,6
+8451080,Christian Ruuttu,Chicago Blackhawks,37,17,134,187,84,3,12,134,9.1,6,0,1,1,14,54
+8451558,Steve Smith,Chicago Blackhawks,47,10,214,212,78,7,38,214,4.7,2,0,1,2,12,57
+8451794,Brent Sutter,Chicago Blackhawks,34,20,67,151,65,8,24,67,13.2,3,0,2,4,10,54
+8455505,Steve Bancroft,Chicago Blackhawks,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+8455572,Adam Bennett,Chicago Blackhawks,2,0,8,15,16,0,1,8,0.0,0,0,0,0,-2,2
+8456149,Karl Dykhuis,Chicago Blackhawks,5,0,0,10,12,0,1,0,0.0,0,0,0,0,2,5
+8458195,Stephen Tepper,Chicago Blackhawks,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+8458219,Milan Tichy,Chicago Blackhawks,1,0,30,12,13,0,0,30,0.0,0,0,0,0,7,1
+8458585,Igor Kravchuk,Chicago Blackhawks,17,10,32,143,55,4,9,32,7.0,0,0,0,1,3,27
+8458732,Alexander Andrijevski,Chicago Blackhawks,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+8458949,Sergei Krivokrasov,Chicago Blackhawks,0,0,2,0,4,0,0,2,0.0,0,0,0,0,-2,0
+8445789,Shawn Burr,Detroit Red Wings,25,10,74,99,80,1,1,74,10.1,2,0,1,7,18,35
+8445979,Jimmy Carson,Detroit Red Wings,36,37,32,189,86,17,30,32,19.6,5,0,0,0,-2,73
+8446051,Steve Chiasson,Detroit Red Wings,50,12,155,227,79,6,33,155,5.3,1,0,0,2,14,62
+8446063,Dino Ciccarelli,Detroit Red Wings,56,41,81,200,82,21,44,81,20.5,8,0,0,0,12,97
+8446117,Paul Coffey,Detroit Red Wings,75,12,77,254,80,5,51,77,4.7,0,0,0,0,16,87
+8446435,Bobby Dollas,Detroit Red Wings,0,0,2,5,6,0,0,2,0.0,0,0,0,0,-1,0
+8446788,Sergei Fedorov,Detroit Red Wings,53,34,72,217,73,13,31,72,15.7,3,1,4,9,33,87
+8447001,Gerard Gallant,Detroit Red Wings,20,10,188,81,67,0,1,188,12.3,0,0,0,0,20,30
+8448002,Mark Howe,Detroit Red Wings,31,3,22,72,60,3,20,22,4.2,0,0,0,0,22,34
+8448455,Sheldon Kennedy,Detroit Red Wings,11,19,46,110,68,1,1,46,17.3,2,1,0,0,-1,30
+8448482,Gordon Kruppke,Detroit Red Wings,0,0,20,7,10,0,0,20,0.0,0,0,0,0,1,0
+8448521,Steve Konroyd,Detroit Red Wings,12,3,67,66,65,0,2,67,4.5,0,0,0,1,-15,15
+8449403,Brad McCrimmon,Detroit Red Wings,14,1,71,53,60,1,6,71,1.9,0,0,0,0,21,15
+8449972,John Ogrodnick,Detroit Red Wings,6,6,2,25,19,4,7,2,24.0,0,0,0,0,-2,12
+8450550,Keith Primeau,Detroit Red Wings,17,15,152,75,73,4,8,152,20.0,2,0,1,1,-6,32
+8450561,Bob Probert,Detroit Red Wings,29,14,292,128,80,6,14,292,10.9,3,0,0,0,-9,43
+8450658,Yves Racine,Detroit Red Wings,31,9,80,163,80,5,15,80,5.5,0,0,0,0,10,40
+8451343,Ray Sheppard,Detroit Red Wings,34,32,29,183,70,10,28,29,17.5,1,0,0,0,7,66
+8451359,Mike Sillinger,Detroit Red Wings,17,4,16,47,51,0,0,16,8.5,0,0,0,0,0,21
+8451849,Chris Tancill,Detroit Red Wings,0,1,2,3,4,0,0,2,33.3,0,0,0,0,-2,1
+8452148,Dennis Vial,Detroit Red Wings,1,0,20,5,9,0,0,20,0.0,0,0,0,0,1,1
+8452571,Paul Ysebaert,Detroit Red Wings,28,34,42,186,80,3,8,42,18.3,8,0,3,4,19,62
+8452578,Steve Yzerman,Detroit Red Wings,79,58,44,307,84,13,41,44,18.9,6,0,7,9,33,137
+8455984,Jim Cummins,Detroit Red Wings,1,1,58,5,7,0,0,58,20.0,0,0,0,0,0,2
+8456106,Dallas Drake,Detroit Red Wings,26,18,93,89,72,3,7,93,20.2,5,0,2,2,15,44
+8456597,Jim Hiller,Detroit Red Wings,12,8,109,83,61,1,2,109,9.6,2,0,0,0,7,20
+8456870,Vladimir Konstantinov,Detroit Red Wings,17,5,137,85,82,0,1,137,5.9,0,0,0,0,22,22
+8456887,Vyacheslav Kozlov,Detroit Red Wings,1,4,14,26,17,0,0,14,15.4,0,0,0,0,-1,5
+8457063,Nicklas Lidstrom,Detroit Red Wings,34,7,28,156,84,3,20,28,4.5,2,0,0,4,7,41
+8458468,Jason York,Detroit Red Wings,0,0,0,1,2,0,0,0,0.0,0,0,0,0,0,0
+8458524,Martin Lapointe,Detroit Red Wings,0,0,0,2,3,0,0,0,0.0,0,0,0,0,-2,0
+8445266,Murray Baron,St. Louis Blues,2,2,59,42,53,0,0,59,4.8,1,1,0,0,-5,4
+8445281,Bob Bassen,St. Louis Blues,10,9,63,61,53,0,0,63,14.8,0,0,1,3,0,19
+8445659,Philippe Bozon,St. Louis Blues,6,6,55,90,54,0,0,55,6.7,0,0,0,0,-3,12
+8445700,Jeff Brown,St. Louis Blues,53,25,58,220,71,12,46,58,11.4,3,0,2,4,-6,78
+8445803,Garth Butcher,St. Louis Blues,10,5,211,83,84,0,0,211,6.0,2,0,0,0,0,15
+8446014,Paul Cavallini,St. Louis Blues,12,6,56,99,82,1,2,56,6.1,0,0,0,0,6,18
+8446125,Kelly Chase,St. Louis Blues,5,2,204,28,49,0,0,204,7.1,0,0,0,0,-9,7
+8446238,Doug Crossman,St. Louis Blues,28,10,28,78,59,4,22,28,12.8,1,1,0,1,-7,38
+8446675,Nelson Emerson,St. Louis Blues,51,22,62,196,82,5,39,62,11.2,4,0,2,2,2,73
+8447176,Curt Giles,St. Louis Blues,4,0,40,23,48,0,2,40,0.0,0,0,0,0,-2,4
+8448091,Brett Hull,St. Louis Blues,47,54,41,390,80,29,58,41,13.8,2,0,0,0,-27,101
+8448222,Craig Janney,St. Louis Blues,82,24,12,137,84,8,44,12,17.5,6,0,0,0,-4,106
+8448834,Dave Lowry,St. Louis Blues,8,5,101,59,58,0,0,101,8.5,0,0,0,0,-18,13
+8448939,David Mackey,St. Louis Blues,4,1,23,17,15,0,0,23,5.9,0,0,0,0,-3,5
+8449498,Basil McRae,St. Louis Blues,6,3,169,45,47,2,2,169,6.7,0,0,0,0,-16,9
+8449607,Kevin Miller,St. Louis Blues,25,24,100,163,82,8,11,100,14.7,4,0,3,5,2,49
+8449905,Lee Norwood,St. Louis Blues,7,3,63,36,32,2,6,63,8.3,0,0,0,0,-5,10
+8450620,Stephane Quintal,St. Louis Blues,10,1,100,81,75,0,0,100,1.2,0,0,1,3,-6,11
+8451302,Brendan Shanahan,St. Louis Blues,43,51,174,232,71,18,37,174,22.0,8,1,0,0,10,94
+8451791,Rich Sutter,St. Louis Blues,14,13,100,148,84,0,0,100,8.8,1,0,2,5,-4,27
+8451793,Ron Sutter,St. Louis Blues,15,12,99,90,59,4,9,99,13.3,3,0,0,0,-11,27
+8452495,Ron Wilson,St. Louis Blues,11,8,44,75,78,0,1,44,10.7,1,0,3,7,-8,19
+8452583,Rick Zombo,St. Louis Blues,15,0,78,43,71,0,0,78,0.0,0,0,0,2,-2,15
+8456233,Denny Felsner,St. Louis Blues,3,0,2,4,6,0,0,2,0.0,0,0,0,0,4,3
+8456547,Bret Hedican,St. Louis Blues,8,0,30,40,42,0,1,30,0.0,0,0,0,0,-2,8
+8456974,Daniel Laperriere,St. Louis Blues,1,0,0,7,5,0,0,0,0.0,0,0,0,0,-3,1
+8457380,Kevin Miehm,St. Louis Blues,3,1,4,5,8,0,0,4,20.0,0,0,0,0,1,4
+8457883,Jason Ruff,St. Louis Blues,1,2,8,8,8,1,1,8,25.0,1,0,0,0,-1,3
+8458974,Igor Korolev,St. Louis Blues,23,4,20,76,74,2,5,20,5.3,0,0,0,0,-1,27
+8458998,Vitali Karamnov,St. Louis Blues,1,0,0,7,7,0,0,0,0.0,0,0,0,0,-2,1
+8459000,Vitali Prokhorov,St. Louis Blues,1,4,15,21,26,0,0,15,19.0,1,0,0,0,-4,5
+8445118,Brent Ashton,Calgary Flames,13,10,52,84,58,0,2,52,11.9,1,0,2,3,11,23
+8445440,Craig Berube,Calgary Flames,8,4,209,58,77,0,0,209,6.9,2,0,0,0,-6,12
+8446288,Chris Dahlquist,Calgary Flames,7,3,66,64,74,0,1,66,4.7,1,0,0,1,0,10
+8446847,Theo Fleury,Calgary Flames,66,34,88,250,83,12,33,88,13.6,4,1,2,3,14,100
+8446955,Frantisek Musil,Calgary Flames,10,6,131,87,80,0,1,131,6.9,1,0,0,1,28,16
+8447247,Alexander Godynyuk,Calgary Flames,4,3,19,35,27,0,3,19,8.6,0,0,0,0,6,7
+8448292,Roger Johansson,Calgary Flames,16,4,62,101,77,1,4,62,4.0,0,0,0,1,13,20
+8448754,Gary Leeman,Calgary Flames,17,15,24,85,50,1,5,24,17.6,3,0,0,0,14,32
+8448775,Patrick Lebeau,Calgary Flames,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+8448960,Al MacInnis,Calgary Flames,43,11,61,201,50,7,34,61,5.5,4,0,0,2,15,54
+8449163,Sergei Makarov,Calgary Flames,39,18,40,105,71,5,16,40,17.1,3,0,0,0,0,57
+8449893,Joe Nieuwendyk,Calgary Flames,37,38,52,208,79,14,27,52,18.3,6,0,0,0,9,75
+8450088,Joel Otto,Calgary Flames,33,19,150,115,75,6,16,150,16.5,4,1,1,1,2,52
+8450200,Greg Paslawski,Calgary Flames,24,18,12,109,73,4,11,12,16.5,1,0,0,0,3,42
+8450348,Michel Petit,Calgary Flames,9,3,54,58,35,2,3,54,5.2,0,0,0,0,-5,12
+8450653,Paul Ranheim,Calgary Flames,22,21,26,179,83,3,4,26,11.7,1,0,4,6,-4,43
+8450767,Robert Reichel,Calgary Flames,48,40,54,238,80,12,28,54,16.8,5,0,0,0,25,88
+8450900,Gary Roberts,Calgary Flames,41,38,172,166,58,8,17,172,22.9,4,2,3,3,32,79
+8451427,Brian Skrudland,Calgary Flames,7,7,65,51,39,0,0,65,13.7,1,0,2,3,4,14
+8451570,Greg Smyth,Calgary Flames,2,1,95,14,35,1,1,95,7.1,0,0,0,0,2,3
+8451709,Ronnie Stern,Calgary Flames,15,10,207,82,70,0,0,207,12.2,1,0,0,0,4,25
+8451804,Gary Suter,Calgary Flames,58,23,112,263,81,10,44,112,8.7,2,0,1,2,-1,81
+8452482,Carey Wilson,Calgary Flames,7,4,8,30,22,1,1,8,13.3,0,0,2,2,10,11
+8452556,Trent Yawney,Calgary Flames,16,1,67,61,63,0,6,67,1.6,0,0,0,1,9,17
+8456000,Kevin Dahl,Calgary Flames,9,2,56,40,61,1,1,56,5.0,0,0,0,0,9,11
+8456288,Thomas Forslund,Calgary Flames,2,0,0,3,6,0,0,0,0.0,0,0,0,1,0,2
+8456513,Todd Harkins,Calgary Flames,3,2,22,17,15,0,0,22,11.8,0,0,0,0,-4,5
+8456544,Shawn Heaphy,Calgary Flames,0,0,0,2,1,0,0,0,0.0,0,0,0,0,0,0
+8456903,Paul Kruse,Calgary Flames,3,2,41,17,27,0,0,41,11.8,0,0,0,0,2,5
+8457069,Chris Lindberg,Calgary Flames,12,9,18,74,62,1,1,18,12.2,1,0,0,2,-3,21
+8458469,C.J. Young,Calgary Flames,7,7,32,43,43,1,1,32,16.3,1,0,0,0,-6,14
+8445419,Brian Benning,Edmonton Oilers,24,10,152,115,55,6,20,152,8.7,0,0,0,1,-1,34
+8445733,Kelly Buchberger,Edmonton Oilers,18,12,133,92,83,1,1,133,13.0,3,1,2,7,-27,30
+8446133,Zdeno Ciger,Edmonton Oilers,23,13,8,106,64,2,11,8,12.3,2,1,0,3,-13,36
+8446167,Shayne Corson,Edmonton Oilers,31,16,209,164,80,9,19,209,9.8,1,0,2,4,-19,47
+8446250,Dan Currie,Edmonton Oilers,0,0,4,11,5,0,0,4,0.0,0,0,0,0,-4,0
+8446624,Todd Elik,Edmonton Oilers,27,14,56,104,60,4,10,56,13.5,1,0,0,0,-4,41
+8447091,Martin Gelinas,Edmonton Oilers,12,11,30,93,65,0,0,30,11.8,1,0,0,0,3,23
+8447177,Brent Gilchrist,Edmonton Oilers,11,10,49,106,68,2,4,49,9.4,0,0,0,2,-12,21
+8447630,Brian Glynn,Edmonton Oilers,12,4,60,80,64,2,7,60,5.0,0,0,0,1,-13,16
+8447690,Greg Hawgood,Edmonton Oilers,35,11,74,138,69,7,24,74,8.0,1,0,0,0,-8,46
+8448046,Mike Hudson,Edmonton Oilers,7,1,46,35,41,0,1,46,2.9,0,0,0,1,-7,8
+8448380,Chris Joseph,Edmonton Oilers,10,2,48,49,33,1,6,48,4.1,0,0,0,0,-9,12
+8448490,Petr Klima,Edmonton Oilers,16,32,100,175,68,13,22,100,18.3,2,0,0,0,-15,48
+8448822,Francois Leroux,Edmonton Oilers,0,0,4,0,1,0,0,4,0.0,0,0,0,0,0,0
+8449020,Craig MacTavish,Edmonton Oilers,20,10,110,101,82,0,2,110,9.9,3,1,3,5,-16,30
+8449095,David Maley,Edmonton Oilers,7,2,155,57,56,1,2,155,3.5,0,0,0,0,-28,9
+8449123,Dave Manson,Edmonton Oilers,30,15,210,244,83,9,29,210,6.1,1,0,1,2,-28,45
+8449399,William McDougall,Edmonton Oilers,1,2,4,8,4,0,0,4,25.0,0,0,0,0,2,3
+8449545,Scott Mellanby,Edmonton Oilers,17,15,147,114,69,6,9,147,13.2,3,0,0,0,-4,32
+8449749,Craig Muni,Edmonton Oilers,11,0,75,60,81,0,0,75,0.0,0,0,0,4,-14,11
+8449881,Bernie Nicholls,Edmonton Oilers,47,13,80,132,69,5,26,80,9.8,1,0,0,0,-13,60
+8450812,Steven Rice,Edmonton Oilers,5,2,28,29,28,0,0,28,6.9,0,0,0,0,-4,7
+8450824,Luke Richardson,Edmonton Oilers,10,3,142,78,82,0,1,142,3.8,0,0,2,4,-18,13
+8451376,Craig Simpson,Edmonton Oilers,22,24,36,91,60,12,25,36,26.4,3,2,0,0,-14,46
+8451527,Geoff Smith,Edmonton Oilers,14,4,30,67,78,0,2,30,6.0,0,0,1,2,-11,18
+8451901,Kevin Todd,Edmonton Oilers,14,9,26,87,55,0,4,26,10.3,3,0,0,0,-9,23
+8451905,Esa Tikkanen,Edmonton Oilers,24,16,94,202,81,2,7,94,7.9,3,0,4,5,-24,40
+8451972,Scott Thornton,Edmonton Oilers,1,0,0,7,9,0,0,0,0.0,0,0,0,0,-4,1
+8452147,Shaun Van Allen,Edmonton Oilers,4,1,6,19,21,0,1,6,5.3,0,0,0,0,-2,5
+8455575,Josef Beranek,Edmonton Oilers,18,15,78,130,66,1,5,78,11.5,0,0,0,0,-8,33
+8456031,Louie Debrusk,Edmonton Oilers,2,8,205,33,51,0,1,205,24.2,1,0,0,0,-16,10
+8457704,Shjon Podein,Edmonton Oilers,6,13,25,64,40,2,3,25,20.3,1,0,1,1,-2,19
+8458361,Doug Weight,Edmonton Oilers,31,17,65,125,78,3,14,65,13.6,1,0,0,0,2,48
+8458373,Brad Werenka,Edmonton Oilers,4,5,24,38,27,0,1,24,13.2,1,0,1,2,1,9
+8458526,Tyler Wright,Edmonton Oilers,1,1,19,7,7,0,0,19,14.3,0,0,0,0,-4,2
+8458585,Igor Kravchuk,Edmonton Oilers,17,10,32,143,55,4,9,32,7.0,0,0,0,1,3,27
+8458587,Vladimir Vujtek,Edmonton Oilers,10,1,8,49,30,0,4,8,2.0,0,0,0,0,-1,11
+8444894,Greg Adams,Vancouver Canucks,31,25,14,124,53,6,15,14,20.2,3,0,1,4,31,56
+8445017,Shawn Antoski,Vancouver Canucks,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+8445208,Dave Babych,Vancouver Canucks,16,3,44,78,43,3,9,44,3.8,0,0,0,0,6,19
+8446205,Geoff Courtnall,Vancouver Canucks,46,31,167,214,84,9,20,167,14.5,11,1,0,0,27,77
+8446217,Murray Craven,Vancouver Canucks,52,25,32,151,77,6,28,32,16.6,2,2,3,6,-1,77
+8446376,Robert Dirk,Vancouver Canucks,8,4,150,41,69,0,0,150,9.8,2,0,0,0,25,12
+8446417,Gerald Diduck,Vancouver Canucks,14,6,171,92,80,0,5,171,6.5,0,0,1,1,32,20
+8446807,Tom Fergus,Vancouver Canucks,9,5,20,29,36,1,3,20,17.2,0,0,1,2,1,14
+8448118,Tim Hunter,Vancouver Canucks,7,5,193,40,74,0,0,193,12.5,0,0,0,0,-3,12
+8448542,Robert Kron,Vancouver Canucks,13,14,18,97,45,4,4,18,14.4,2,0,2,2,5,27
+8448824,Jyrki Lumme,Vancouver Canucks,36,8,55,123,74,3,15,55,6.5,1,0,2,3,30,44
+8448825,Trevor Linden,Vancouver Canucks,39,33,64,209,84,8,15,64,15.8,3,0,0,0,19,72
+8448839,Doug Lidster,Vancouver Canucks,19,6,36,76,71,3,6,36,7.9,0,0,0,0,9,25
+8449669,Sergio Momesso,Vancouver Canucks,20,18,200,146,84,4,8,200,12.3,1,0,0,0,11,38
+8449698,Stephane Morin,Vancouver Canucks,1,0,0,3,1,0,0,0,0.0,0,0,0,0,-1,1
+8449774,Dana Murzyn,Vancouver Canucks,11,5,196,82,79,0,0,196,6.1,2,0,0,2,34,16
+8449807,Petr Nedved,Vancouver Canucks,33,38,96,149,84,2,15,96,25.5,3,0,1,1,20,71
+8449961,Gino Odjick,Vancouver Canucks,13,4,370,79,75,0,1,370,5.1,1,0,0,0,3,17
+8450471,Adrian Plavsic,Vancouver Canucks,21,6,53,62,57,5,14,53,9.7,2,0,0,1,28,27
+8451005,Cliff Ronning,Vancouver Canucks,56,29,30,209,79,10,28,30,13.9,2,0,0,0,19,85
+8451119,Jim Sandlak,Vancouver Canucks,18,10,122,104,59,1,6,122,9.6,1,0,0,1,2,28
+8451291,Anatoli Semenov,Vancouver Canucks,37,12,32,102,75,3,9,32,11.8,1,0,2,5,16,49
+8452161,Garry Valk,Vancouver Canucks,7,6,77,46,48,0,0,77,13.0,2,0,0,1,6,13
+8452281,Ryan Walter,Vancouver Canucks,0,3,10,15,25,0,0,10,20.0,0,0,0,0,-2,3
+8455738,Pavel Bure,Vancouver Canucks,50,60,69,407,83,13,33,69,14.7,9,0,7,9,35,110
+8457761,Dan Ratushny,Vancouver Canucks,1,0,2,2,1,0,0,2,0.0,0,0,0,0,0,1
+8458052,Jiri Slegr,Vancouver Canucks,22,4,109,89,41,2,10,109,4.5,0,0,0,0,16,26
+8458347,Dixon Ward,Vancouver Canucks,30,22,82,111,70,4,9,82,19.8,0,0,1,3,34,52
+8445550,Rob Blake,Los Angeles Kings,43,16,152,243,76,10,32,152,6.6,4,0,0,2,18,59
+8445738,Francis Breault,Los Angeles Kings,0,0,6,0,4,0,0,6,0.0,0,0,0,0,-1,0
+8445979,Jimmy Carson,Los Angeles Kings,36,37,32,189,86,17,30,32,19.6,5,0,0,0,-2,73
+8446050,Jeff Chychrun,Los Angeles Kings,1,0,25,3,18,0,0,25,0.0,0,0,0,0,-2,1
+8446117,Paul Coffey,Los Angeles Kings,75,12,77,254,80,5,51,77,4.7,0,0,0,0,16,87
+8446126,Rene Chapdelaine,Los Angeles Kings,0,0,12,5,13,0,0,12,0.0,0,0,0,0,-6,0
+8446129,Pat Conacher,Los Angeles Kings,8,9,20,65,81,0,3,20,13.8,1,0,2,2,-16,17
+8446449,Mike Donnelly,Los Angeles Kings,40,29,45,244,84,8,19,45,11.9,2,0,1,1,17,69
+8446935,Marc Fortier,Los Angeles Kings,1,0,11,14,16,0,0,11,0.0,0,0,0,0,-9,1
+8447350,Tony Granato,Los Angeles Kings,45,37,171,247,81,14,27,171,15.0,6,0,2,5,-1,82
+8447400,Wayne Gretzky,Los Angeles Kings,49,16,6,141,45,0,24,6,11.3,1,0,2,3,6,65
+8447569,Mark Hardy,Los Angeles Kings,13,1,89,48,55,0,1,89,2.1,0,0,0,0,-2,14
+8448038,Charlie Huddy,Los Angeles Kings,25,2,64,106,82,0,3,64,1.9,1,0,0,2,16,27
+8448553,Bob Kudelski,Los Angeles Kings,17,24,30,137,63,12,17,30,17.5,3,0,0,0,-25,41
+8448569,Jari Kurri,Los Angeles Kings,60,27,38,210,82,12,31,38,12.9,3,0,2,3,19,87
+8449439,John McIntyre,Los Angeles Kings,5,3,84,36,60,0,0,84,8.3,0,0,0,1,-14,8
+8449516,Marty McSorley,Los Angeles Kings,26,15,399,197,81,3,12,399,7.6,0,0,3,5,1,41
+8449606,Corey Millen,Los Angeles Kings,16,23,42,100,42,9,14,42,23.0,1,0,2,3,16,39
+8450504,Marc Potvin,Los Angeles Kings,1,0,61,7,20,0,0,61,0.0,0,0,0,0,-10,1
+8450941,Luc Robitaille,Los Angeles Kings,62,63,100,265,84,24,45,100,23.8,8,0,2,4,18,125
+8451089,Warren Rychel,Los Angeles Kings,7,6,314,67,70,0,0,314,9.0,1,0,0,0,-15,13
+8451122,Tomas Sandstrom,Los Angeles Kings,27,25,57,134,39,8,16,57,18.7,3,2,0,0,12,52
+8451866,Dave Taylor,Los Angeles Kings,9,6,49,53,48,1,1,49,11.3,1,0,0,1,1,15
+8451914,Jim Thomson,Los Angeles Kings,1,0,97,23,24,0,0,97,0.0,0,0,0,0,-12,1
+8452347,Tim Watters,Los Angeles Kings,2,0,18,8,22,0,0,18,0.0,0,0,0,0,-3,2
+8456597,Jim Hiller,Los Angeles Kings,12,8,109,83,61,1,2,109,9.6,2,0,0,0,7,20
+8456966,Robert Lang,Los Angeles Kings,5,0,2,3,11,0,0,2,0.0,0,0,0,0,-3,5
+8457083,Lonnie Loach,Los Angeles Kings,13,10,27,58,53,1,4,27,17.2,0,0,0,0,3,23
+8457984,Thomas Semchuk,Los Angeles Kings,0,0,2,0,1,0,0,2,0.0,0,0,0,0,0,0
+8458020,Gary Shuchuk,Los Angeles Kings,4,2,16,24,25,0,0,16,8.3,0,0,0,0,0,6
+8458172,Darryl Sydor,Los Angeles Kings,23,6,63,112,80,0,7,63,5.4,1,0,0,1,-2,29
+8458212,Brent Thompson,Los Angeles Kings,4,0,76,18,30,0,0,76,0.0,0,0,0,0,-4,4
+8458394,Sean Whyte,Los Angeles Kings,2,0,12,7,18,0,0,12,0.0,0,0,0,0,1,2
+8458412,Darryl Williams,Los Angeles Kings,0,0,10,1,2,0,0,10,0.0,0,0,0,0,0,0
+8458507,Peter Ahola,Los Angeles Kings,5,3,36,40,50,0,2,36,7.5,0,0,0,0,-10,8
+8458556,Guy Leveque,Los Angeles Kings,1,2,19,12,12,0,1,19,16.7,0,0,0,0,-4,3
+8458595,Alexei Zhitnik,Los Angeles Kings,36,12,80,136,78,5,19,80,8.8,2,0,0,0,-3,48
+8445335,Robin Bawa,San Jose Sharks,0,5,47,25,42,0,0,47,20.0,1,0,0,0,-25,5
+8445427,Perry Berezan,San Jose Sharks,4,3,28,37,28,1,1,28,8.1,0,0,1,2,-18,7
+8445728,David Bruce,San Jose Sharks,3,2,33,36,17,2,4,33,5.6,0,0,0,0,-14,5
+8445821,Lyndon Byers,San Jose Sharks,1,4,122,18,18,0,0,122,22.2,0,0,0,0,-2,5
+8445989,John Carter,San Jose Sharks,9,7,81,110,55,0,0,81,6.4,0,0,1,1,-25,16
+8446163,Yvon Corriveau,San Jose Sharks,12,8,14,77,57,2,2,14,10.4,1,0,0,0,-20,20
+8446356,Larry Depalma,San Jose Sharks,6,2,41,29,20,1,4,41,6.9,0,0,0,0,-14,8
+8446743,Dean Evason,San Jose Sharks,19,12,132,107,84,3,5,132,11.2,1,0,0,1,-35,31
+8447071,Johan Garpenlov,San Jose Sharks,44,22,56,171,79,14,25,56,12.9,1,1,0,1,-26,66
+8448505,Kelly Kisio,San Jose Sharks,52,26,90,152,78,9,34,90,17.1,2,1,2,3,-15,78
+8448536,Dean Kolstad,San Jose Sharks,2,0,12,22,10,0,1,12,0.0,0,0,0,0,-9,2
+8448689,Brian Lawton,San Jose Sharks,8,2,12,29,21,0,2,12,6.9,0,0,0,0,-9,10
+8448987,Pat MacLeod,San Jose Sharks,1,0,10,20,13,0,0,10,0.0,0,0,0,0,-19,1
+8449095,David Maley,San Jose Sharks,7,2,155,57,56,1,2,155,3.5,0,0,0,0,-28,9
+8449412,Hubie McDonough,San Jose Sharks,2,6,6,41,30,2,2,6,14.6,0,0,0,0,-21,8
+8449694,Jayson More,San Jose Sharks,6,5,179,107,73,0,0,179,4.7,0,0,1,1,-35,11
+8449718,Jon Morris,San Jose Sharks,3,0,6,12,15,0,1,6,0.0,0,0,0,0,-11,3
+8450269,Mark Pederson,San Jose Sharks,7,10,28,63,41,2,5,28,15.9,0,0,0,0,-22,17
+8450357,Michel Picard,San Jose Sharks,0,4,24,32,25,2,2,24,12.5,0,0,0,0,-17,4
+8451429,Petri Skriko,San Jose Sharks,3,4,6,35,17,2,3,6,11.4,0,0,1,1,-8,7
+8451596,Dave Snuggerud,San Jose Sharks,7,4,14,61,39,0,0,14,6.6,1,0,1,1,-3,11
+8452489,Doug Wilson,San Jose Sharks,17,3,40,110,42,1,12,40,2.7,0,0,0,0,-28,20
+8452503,Neil Wilkinson,San Jose Sharks,7,1,96,51,59,0,2,96,2.0,0,0,1,2,-50,8
+8452695,Rob Zettler,San Jose Sharks,7,0,150,60,80,0,0,150,0.0,0,0,0,1,-50,7
+8455949,Edward Courtenay,San Jose Sharks,13,7,10,56,39,2,12,10,12.5,1,0,0,0,-15,20
+8456347,Rob Gaudreau,San Jose Sharks,20,23,18,191,59,5,18,18,12.0,1,0,2,2,-18,43
+8457566,Jeff Odgers,San Jose Sharks,15,12,253,100,66,6,9,253,12.0,0,0,0,0,-26,27
+8457642,Tom Pederson,San Jose Sharks,13,7,31,102,44,2,12,31,6.9,2,1,0,0,-16,20
+8457747,Jean-Francois Quintin,San Jose Sharks,5,2,4,12,14,0,2,4,16.7,0,0,0,0,-4,7
+8457974,Claudio Scremin,San Jose Sharks,1,0,4,4,4,0,0,4,0.0,0,0,0,0,-1,1
+8458155,Mike Sullivan,San Jose Sharks,8,6,30,95,81,0,0,30,6.3,0,0,2,5,-42,14
+8458492,Doug Zmolek,San Jose Sharks,10,5,229,94,84,2,5,229,5.3,0,0,0,0,-50,15
+8458504,David Williams,San Jose Sharks,11,1,49,60,40,1,5,49,1.7,0,0,0,0,-27,12
+8458507,Peter Ahola,San Jose Sharks,5,3,36,40,50,0,2,36,7.5,0,0,0,0,-10,8
+8458516,Pat Falloon,San Jose Sharks,14,14,12,131,41,5,11,12,10.7,1,0,1,3,-25,28
+8458537,Ray Whitney,San Jose Sharks,6,4,4,24,26,1,3,4,16.7,0,0,0,0,-14,10
+8458544,Sandis Ozolinsh,San Jose Sharks,16,7,40,83,37,2,10,40,8.4,0,0,0,0,-9,23
+8458559,Dody Wood,San Jose Sharks,1,1,71,10,13,0,0,71,10.0,0,0,0,0,-5,2
+8458647,Jaroslav Otevrel,San Jose Sharks,2,0,0,4,7,0,1,0,0.0,0,0,0,0,-6,2
+8458711,Dale Craigwell,San Jose Sharks,1,3,4,7,8,0,0,4,42.9,0,0,0,0,-4,4
+8458761,Mark Beaufait,San Jose Sharks,0,1,0,3,5,0,0,0,33.3,0,0,0,0,-1,1
+8458808,Mikhail Kravets,San Jose Sharks,0,0,0,0,1,0,0,0,0.0,0,0,0,0,-1,0
+8445443,Brad Berry,Minnesota North Stars,3,0,109,49,63,0,0,109,0.0,0,0,0,0,2,3
+8445493,James Black,Minnesota North Stars,1,2,4,10,10,0,0,4,20.0,0,0,0,0,0,3
+8445724,Neal Broten,Minnesota North Stars,21,12,22,123,82,0,1,22,9.8,3,0,3,4,7,33
+8446071,Shane Churla,Minnesota North Stars,16,5,286,61,73,1,4,286,8.2,1,0,0,0,-8,21
+8446208,Russ Courtnall,Minnesota North Stars,43,36,49,294,84,14,28,49,12.2,3,0,2,3,1,79
+8446213,Mike Craig,Minnesota North Stars,23,15,106,131,70,7,18,106,11.5,0,0,0,0,-11,38
+8446295,Ulf Dahlen,Minnesota North Stars,39,35,6,223,83,13,34,6,15.7,6,0,0,0,-20,74
+8446497,Gaetan Duchesne,Minnesota North Stars,13,16,30,134,84,0,0,30,11.9,3,0,2,3,6,29
+8446624,Todd Elik,Minnesota North Stars,27,14,56,104,60,4,10,56,13.5,1,0,0,0,-4,41
+8446997,Dave Gagner,Minnesota North Stars,43,33,143,230,84,17,38,143,14.3,5,0,0,0,-13,76
+8447078,Stew Gavin,Minnesota North Stars,8,10,59,114,63,0,0,59,8.8,0,0,0,2,-4,18
+8447177,Brent Gilchrist,Minnesota North Stars,11,10,49,106,68,2,4,49,9.4,0,0,0,2,-12,21
+8448303,Jim Johnson,Minnesota North Stars,20,3,105,67,79,1,3,105,4.5,0,0,0,0,9,23
+8448845,Craig Ludwig,Minnesota North Stars,10,1,153,66,78,0,0,153,1.5,0,0,0,1,1,11
+8449495,Mike McPhee,Minnesota North Stars,22,18,44,161,84,1,5,44,11.2,2,0,2,3,-2,40
+8449645,Mike Modano,Minnesota North Stars,60,33,83,307,82,9,36,83,10.7,7,0,0,0,-7,93
+8450595,Brian Propp,Minnesota North Stars,3,3,0,35,17,1,3,0,8.6,1,0,0,0,-10,6
+8450635,Dan Quinn,Minnesota North Stars,4,0,6,20,11,0,3,6,0.0,0,0,0,0,-4,4
+8451476,Bobby Smith,Minnesota North Stars,7,5,10,53,45,3,4,10,9.4,0,0,0,0,-9,12
+8451517,Derrick Smith,Minnesota North Stars,1,0,2,3,9,0,0,2,0.0,0,0,0,0,-2,1
+8451869,Mark Tinordi,Minnesota North Stars,27,15,157,122,69,7,17,157,12.3,2,0,0,0,-1,42
+8455526,Douglas Barrault,Minnesota North Stars,0,0,2,0,2,0,0,2,0.0,0,0,0,0,-1,0
+8455875,Enrico Ciccone,Minnesota North Stars,1,0,115,13,31,0,0,115,0.0,0,0,0,0,2,1
+8456531,Derian Hatcher,Minnesota North Stars,15,4,178,73,67,0,7,178,5.5,1,0,0,0,-27,19
+8456849,Trent Klatt,Minnesota North Stars,19,4,38,69,47,1,2,38,5.8,0,0,0,0,2,23
+8457399,Roy Mitchell,Minnesota North Stars,0,0,0,0,3,0,0,0,0.0,0,0,0,0,0,0
+8457589,Mark Osiecki,Minnesota North Stars,4,1,19,26,43,1,1,19,3.8,0,0,0,0,-20,5
+8458036,Reid Simpson,Minnesota North Stars,0,0,5,0,1,0,0,5,0.0,0,0,0,0,0,0
+8458043,Tommy Sjodin,Minnesota North Stars,29,7,30,175,77,5,28,30,4.0,1,0,0,0,-25,36
+8458522,Richard Matvichuk,Minnesota North Stars,3,2,26,51,53,1,1,26,3.9,0,0,0,0,-8,5
