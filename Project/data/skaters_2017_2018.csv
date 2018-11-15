@@ -1,3 +1,4 @@
+id,fullName,teamName,timeOnIce,assists,goals,pim,shots,games,hits,powerPlayGoals,powerPlayPoints,powerPlayTimeOnIce,evenTimeOnIce,penaltyMinutes,faceOffPct,shotPct,gameWinningGoals,overTimeGoals,shortHandedGoals,shortHandedPoints,shortHandedTimeOnIce,blocked,plusMinus,points,shifts,timeOnIcePerGame,evenTimeOnIcePerGame,shortHandedTimeOnIcePerGame,powerPlayTimeOnIcePerGame
 8470619,Brian Boyle,New Jersey Devils,917:06,10,13,45,120,69,126,5,7,141:42,757:01,45,50.48,10.8,2,0,0,0,18:23,26,-9,23,1178,13:17,10:58,00:15,02:03
 8471226,Drew Stafford,New Jersey Devils,817:42,7,8,10,102,59,77,4,5,112:22,703:55,10,50.61,7.8,1,0,0,0,01:25,15,-20,15,1003,13:51,11:55,00:01,01:54
 8471233,Travis Zajac,New Jersey Devils,1128:12,14,12,25,91,63,64,2,6,116:18,864:59,25,50.91,13.2,0,0,1,2,146:55,38,-8,26,1445,17:54,13:43,02:19,01:50
