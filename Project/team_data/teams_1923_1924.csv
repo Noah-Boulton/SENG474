@@ -1,0 +1,5 @@
+id,teamName,gamesPlayed,wins,losses,ot,pts,ptPctg,goalsPerGame,goalsAgainstPerGame,evGGARatio,powerPlayPercentage,powerPlayGoals,powerPlayGoalsAgainst,powerPlayOpportunities,penaltyKillPercentage,shotsPerGame,shotsAllowed,winScoreFirst,winOppScoreFirst,winLeadFirstPer,winLeadSecondPer,winOutshootOpp,winOutshotByOpp,faceOffsTaken,faceOffsWon,faceOffsLost,faceOffWinPercentage,shootingPctg,savePctg
+36,Ottawa Senators (1917),24,16,8,0,32,66.7,3.083,2.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.846,0.455,0.889,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Hamilton Tigers,24,9,15,0,18,37.5,2.625,2.833,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.214,0.625,0.889,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Montréal Canadiens,24,13,11,0,26,54.2,2.458,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.111,0.917,0.786,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,Toronto St. Patricks,24,10,14,0,20,41.7,2.458,3.542,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.286,0.667,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,7 @@
+id,teamName,gamesPlayed,wins,losses,ot,pts,ptPctg,goalsPerGame,goalsAgainstPerGame,evGGARatio,powerPlayPercentage,powerPlayGoals,powerPlayGoalsAgainst,powerPlayOpportunities,penaltyKillPercentage,shotsPerGame,shotsAllowed,winScoreFirst,winOppScoreFirst,winLeadFirstPer,winLeadSecondPer,winOutshootOpp,winOutshotByOpp,faceOffsTaken,faceOffsWon,faceOffsLost,faceOffWinPercentage,shootingPctg,savePctg
+16,Chicago Blackhawks,60,19,37,0,42,35.0,3.217,4.567,0.0,0.0,41.0,36.0,0.0,0.0,0.0,0.0,0.48,0.2,0.684,0.941,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Detroit Red Wings,60,22,27,0,55,45.8,3.167,3.217,0.0,0.0,39.0,26.0,0.0,0.0,0.0,0.0,0.514,0.16,0.684,0.818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,New York Rangers,60,22,32,0,50,41.7,2.783,3.1,0.0,0.0,30.0,27.0,0.0,0.0,0.0,0.0,0.533,0.2,0.611,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,Boston Bruins,60,26,23,0,63,52.5,3.167,2.917,0.0,0.0,23.0,29.0,0.0,0.0,0.0,0.0,0.615,0.294,0.875,0.905,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Montréal Canadiens,60,34,16,0,78,65.0,3.15,2.3,0.0,0.0,31.0,39.0,0.0,0.0,0.0,0.0,0.813,0.286,0.955,0.966,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Toronto Maple Leafs,60,31,19,0,72,60.0,3.483,2.867,0.0,0.0,28.0,35.0,0.0,0.0,0.0,0.0,0.677,0.345,0.81,0.96,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,5 @@
+id,teamName,gamesPlayed,wins,losses,ot,pts,ptPctg,goalsPerGame,goalsAgainstPerGame,evGGARatio,powerPlayPercentage,powerPlayGoals,powerPlayGoalsAgainst,powerPlayOpportunities,penaltyKillPercentage,shotsPerGame,shotsAllowed,winScoreFirst,winOppScoreFirst,winLeadFirstPer,winLeadSecondPer,winOutshootOpp,winOutshotByOpp,faceOffsTaken,faceOffsWon,faceOffsLost,faceOffWinPercentage,shootingPctg,savePctg
+36,Ottawa Senators (1917),22,9,13,0,18,40.9,4.636,5.182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.25,0.778,0.818,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Montréal Canadiens,22,13,9,0,26,59.1,5.476,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.769,0.333,0.818,0.909,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,Toronto Arenas,22,13,9,0,26,59.1,5.143,5.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.438,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Montreal Wanderers,6,1,5,0,2,16.7,4.25,8.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

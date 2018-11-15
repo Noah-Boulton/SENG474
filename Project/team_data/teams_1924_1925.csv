@@ -1,0 +1,7 @@
+id,teamName,gamesPlayed,wins,losses,ot,pts,ptPctg,goalsPerGame,goalsAgainstPerGame,evGGARatio,powerPlayPercentage,powerPlayGoals,powerPlayGoalsAgainst,powerPlayOpportunities,penaltyKillPercentage,shotsPerGame,shotsAllowed,winScoreFirst,winOppScoreFirst,winLeadFirstPer,winLeadSecondPer,winOutshootOpp,winOutshotByOpp,faceOffsTaken,faceOffsWon,faceOffsLost,faceOffWinPercentage,shootingPctg,savePctg
+36,Ottawa Senators (1917),30,17,12,0,35,58.3,2.767,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.737,0.273,0.833,0.929,0.0,0.0,0.0,0.0,0.0,0.0,73.5,0.0
+37,Hamilton Tigers,30,19,10,0,39,65.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.778,0.417,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,0.0
+6,Boston Bruins,30,6,24,0,12,20.0,1.633,3.967,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.12,0.0,0.667,0.0,0.0,0.0,0.0,0.0,0.0,40.8,0.0
+8,Montréal Canadiens,30,17,11,0,36,60.0,3.1,1.867,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.813,0.286,0.818,1.0,0.0,0.0,0.0,0.0,0.0,0.0,82.3,0.0
+58,Toronto St. Patricks,30,19,11,0,38,63.3,3.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.941,0.231,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,11.9,0.0
+43,Montreal Maroons,30,9,19,0,20,33.3,1.5,2.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.571,0.063,0.6,0.875,0.0,0.0,0.0,0.0,0.0,0.0,38.8,0.0
