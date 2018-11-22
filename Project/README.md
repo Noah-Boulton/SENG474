@@ -4,4 +4,6 @@ This project uses the NHL API following the documentation found at https://gitla
 ## TODO
 - Implement predict today's games function
 - Add data visualization 
-- Add a results discussion and conclusion 
+- Add a results discussion and conclusion
+- Normalize PDO
+ 
